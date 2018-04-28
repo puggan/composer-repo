@@ -263,6 +263,7 @@
                     "composer\/installers": "~1.0",
                     "SpiroAB\/wp_version_tracker": "~1.0"
                 },
+                "version": "v1.1.1-p1",
                 "source": {
                     "reference": "29afed70ebec476400481ed2702584749f0fb70d",
                     "type": "git",
