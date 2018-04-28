@@ -291,6 +291,16 @@
                     "type": "git",
                     "url": "https:\/\/github.com\/SpiroAB\/wp_version_tracker.git"
                 }
+            },
+            "v1.0.0": {
+                "name": "SpiroAB\/wp_version_tracker",
+                "version": "v1.0.0",
+                "type": "wordpress-plugin",
+                "source": {
+                    "reference": "4b8630695e981486dfb4adf9c659e030529406ef",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wp_version_tracker.git"
+                }
             }
         }
     }
