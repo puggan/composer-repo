@@ -294,10 +294,14 @@
             },
             "v1.0.0": {
                 "name": "SpiroAB\/wp_version_tracker",
-                "version": "v1.0.0",
+                "description": "WP-cersion tracker, support version tracking for non offical pluigns",
                 "type": "wordpress-plugin",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "version": "v1.0.0",
                 "source": {
-                    "reference": "4b8630695e981486dfb4adf9c659e030529406ef",
+                    "reference": "9dcd5ab3e4944f92d140a0222af67e0e9ff945c6",
                     "type": "git",
                     "url": "https:\/\/github.com\/SpiroAB\/wp_version_tracker.git"
                 }
