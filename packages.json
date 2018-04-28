@@ -1,0 +1,3062 @@
+{
+    "packages": {
+        "SpiroAB\/wordpress": {
+            "1.5.1": {
+                "name": "SpiroAB\/wordpress",
+                "version": "1.5.1",
+                "source": {
+                    "reference": "ee138099fa91c235f792cbb35768f72e7cabbdd8",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "1.5.2": {
+                "name": "SpiroAB\/wordpress",
+                "version": "1.5.2",
+                "source": {
+                    "reference": "13f5ee8d42cae90aff6affb831d71f5a17a752eb",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "2.0.1": {
+                "name": "SpiroAB\/wordpress",
+                "version": "2.0.1",
+                "source": {
+                    "reference": "95a88534535a957c8c891cee0b4034a14f93649e",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "2.0.2": {
+                "name": "SpiroAB\/wordpress",
+                "version": "2.0.2",
+                "source": {
+                    "reference": "88ede6b55a50d74b1457e36459a46c7ce5ed8f60",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "2.0.3": {
+                "name": "SpiroAB\/wordpress",
+                "version": "2.0.3",
+                "source": {
+                    "reference": "9d7e78ce1226eb28cde2e8c6fe50ecd64c1387ff",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "2.0.4": {
+                "name": "SpiroAB\/wordpress",
+                "version": "2.0.4",
+                "source": {
+                    "reference": "9742586aaeb02dc4da1fc5c8f39dc5750ac1324f",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "2.0.5": {
+                "name": "SpiroAB\/wordpress",
+                "version": "2.0.5",
+                "source": {
+                    "reference": "856fd3450618d9a8f462cbb8965b1e1f499ef8d2",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "2.0.6": {
+                "name": "SpiroAB\/wordpress",
+                "version": "2.0.6",
+                "source": {
+                    "reference": "2d4a0ccd710f7edc356c706d18f3a7b46be85a65",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "2.0.7": {
+                "name": "SpiroAB\/wordpress",
+                "version": "2.0.7",
+                "source": {
+                    "reference": "7b1b18a0bfd7ade1f770b09e7d1e2bdbc693ec3b",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "2.0.8": {
+                "name": "SpiroAB\/wordpress",
+                "version": "2.0.8",
+                "source": {
+                    "reference": "179693a7da875f2b077d1452ed334b28d155a337",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "2.0.9": {
+                "name": "SpiroAB\/wordpress",
+                "version": "2.0.9",
+                "source": {
+                    "reference": "e66e4a4a93e9ab1015ec8ba19a3c09a22217fbaa",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "2.0.10": {
+                "name": "SpiroAB\/wordpress",
+                "version": "2.0.10",
+                "source": {
+                    "reference": "96c190fefda96d61a1a1d871f24c7a28f9032e2f",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "2.0.11": {
+                "name": "SpiroAB\/wordpress",
+                "version": "2.0.11",
+                "source": {
+                    "reference": "0b6d6740eaf5a14a985db7b0359a30a67bae2b64",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "2.1.1": {
+                "name": "SpiroAB\/wordpress",
+                "version": "2.1.1",
+                "source": {
+                    "reference": "f44fd9327d770f3fe6755905289b556928720cd1",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "2.1.2": {
+                "name": "SpiroAB\/wordpress",
+                "version": "2.1.2",
+                "source": {
+                    "reference": "9e5b219da900a973cefbeded7324fd9bd741be2d",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "2.1.3": {
+                "name": "SpiroAB\/wordpress",
+                "version": "2.1.3",
+                "source": {
+                    "reference": "262b5f1e5002a6909be5010a482e92747b377b61",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "2.2.1": {
+                "name": "SpiroAB\/wordpress",
+                "version": "2.2.1",
+                "source": {
+                    "reference": "34612628d513870d7f83dd4122c3840543d43387",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "2.2.2": {
+                "name": "SpiroAB\/wordpress",
+                "version": "2.2.2",
+                "source": {
+                    "reference": "73047b81e2826bfcfbb2cf62743694d750581fc9",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "2.2.3": {
+                "name": "SpiroAB\/wordpress",
+                "version": "2.2.3",
+                "source": {
+                    "reference": "7d98c70299df450fdb90fb3cb23940ac1f849dbc",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "2.3.1": {
+                "name": "SpiroAB\/wordpress",
+                "version": "2.3.1",
+                "source": {
+                    "reference": "a930b533dd223ba1168cf229aa522bd99ec0b5de",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "2.3.2": {
+                "name": "SpiroAB\/wordpress",
+                "version": "2.3.2",
+                "source": {
+                    "reference": "054b8f547b2ab5b94c50a484e1ba1d027e29df5b",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "2.3.3": {
+                "name": "SpiroAB\/wordpress",
+                "version": "2.3.3",
+                "source": {
+                    "reference": "d16bb6cff87aabeca559b5118b41dd8b6b443895",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "2.5.1": {
+                "name": "SpiroAB\/wordpress",
+                "version": "2.5.1",
+                "source": {
+                    "reference": "7574643bdd6b8b689f15a6bb75f852726be0670d",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "2.6.1": {
+                "name": "SpiroAB\/wordpress",
+                "version": "2.6.1",
+                "source": {
+                    "reference": "7161eefcc0fbcefde4591486a84c42c62e09f846",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "2.6.2": {
+                "name": "SpiroAB\/wordpress",
+                "version": "2.6.2",
+                "source": {
+                    "reference": "d328c227205d72159e465cab937d16123572575d",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "2.6.3": {
+                "name": "SpiroAB\/wordpress",
+                "version": "2.6.3",
+                "source": {
+                    "reference": "bc979852aec4d8ce3a7a5689d7a15a24a985e5a2",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "2.6.5": {
+                "name": "SpiroAB\/wordpress",
+                "version": "2.6.5",
+                "source": {
+                    "reference": "f99605cdbd334b128a8d3b8e12da972c7a10906c",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "2.7.1": {
+                "name": "SpiroAB\/wordpress",
+                "version": "2.7.1",
+                "source": {
+                    "reference": "4df046f3bb90e34ac1f938314c47ff8bc6f76453",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "2.8.1": {
+                "name": "SpiroAB\/wordpress",
+                "version": "2.8.1",
+                "source": {
+                    "reference": "9cf5c439c9ab4c5cb23858bca37b5ec7cec59ecc",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "2.8.2": {
+                "name": "SpiroAB\/wordpress",
+                "version": "2.8.2",
+                "source": {
+                    "reference": "d7b0681250e32b8ec03cf73d721ec5d831989de9",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "2.8.3": {
+                "name": "SpiroAB\/wordpress",
+                "version": "2.8.3",
+                "source": {
+                    "reference": "a68e75072bef6f17d119fe9c7e88ebd339b98d74",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "2.8.4": {
+                "name": "SpiroAB\/wordpress",
+                "version": "2.8.4",
+                "source": {
+                    "reference": "f6f4d775361367943dff3f2604ca1264bebb1544",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "2.8.5": {
+                "name": "SpiroAB\/wordpress",
+                "version": "2.8.5",
+                "source": {
+                    "reference": "145101c96366293cebc03af554ed03dc8d2cdec0",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "2.8.6": {
+                "name": "SpiroAB\/wordpress",
+                "version": "2.8.6",
+                "source": {
+                    "reference": "657d29d5e870e418f7fdf67e06d7f4794a8b96c9",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "2.9.1": {
+                "name": "SpiroAB\/wordpress",
+                "version": "2.9.1",
+                "source": {
+                    "reference": "9326deb8d0262586d3e8f7ba33f1d21d7df4f631",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "2.9.2": {
+                "name": "SpiroAB\/wordpress",
+                "version": "2.9.2",
+                "source": {
+                    "reference": "760c26ac9550c0b569765d71dd74f6a8bc107a2c",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.0.1": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.0.1",
+                "source": {
+                    "reference": "359e275371a2d93b4eade6bae6915e2f6185ced0",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.0.2": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.0.2",
+                "source": {
+                    "reference": "8889be98aa2876f428189b1ca9b3829c09d5169d",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.0.3": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.0.3",
+                "source": {
+                    "reference": "abc49a11dbbec3d7e443dc9904c6aab297c7d766",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.0.4": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.0.4",
+                "source": {
+                    "reference": "a1110ac7efb6d2bde6e55be6dc55796646b39cfd",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.0.5": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.0.5",
+                "source": {
+                    "reference": "fa10c3db899d402c4019dde239950489b9a084fc",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.0.6": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.0.6",
+                "source": {
+                    "reference": "e5ef400a13a9fb652a58682d9b034cbb8c79496c",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.1.1": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.1.1",
+                "source": {
+                    "reference": "5cb512b150fe5a7a09b4bf35bea374fff1a1e8b9",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.1.2": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.1.2",
+                "source": {
+                    "reference": "4e43b09a973ce44296f1cdcbbeb2df76d83547e8",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.1.3": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.1.3",
+                "source": {
+                    "reference": "4f2a07c1627c0bc58fb77228a925190dfb2bc7de",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.1.4": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.1.4",
+                "source": {
+                    "reference": "c3203efa0de532db8535bb5b44f799cdad6a025b",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.2.1": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.2.1",
+                "source": {
+                    "reference": "0674eb6d3a50314d8d32856e9c0a743b0243bf74",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.3.1": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.3.1",
+                "source": {
+                    "reference": "281d00bf7008bb3622f5dbc722c140f57fa59534",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.3.2": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.3.2",
+                "source": {
+                    "reference": "f078dcaa8c5b53e30bf4599ef9d6dca5f77e196e",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.3.3": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.3.3",
+                "source": {
+                    "reference": "b21f90568e34a83a05a638a6986ebce96ade5cd5",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.4.1": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.4.1",
+                "source": {
+                    "reference": "55134dbae32769be4de9bfefd15724455df1c37d",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.4.2": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.4.2",
+                "source": {
+                    "reference": "a6f96f19bd163baa453f82cb9b80b0f9b2fe127c",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.5.1": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.5.1",
+                "source": {
+                    "reference": "18474bfa56fcfeea27f843e54d33fb675a7a4bd5",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.5.2": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.5.2",
+                "source": {
+                    "reference": "c0812b0b6c8956f98d4a2a8ddd4704d9d61a4190",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.6.1": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.6.1",
+                "source": {
+                    "reference": "78d9c9dca274d992ca2284aa172e64e352c48016",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.7.1": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.7.1",
+                "source": {
+                    "reference": "ef154804cc872536cb6963213c71c16216968b40",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.7.2": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.7.2",
+                "source": {
+                    "reference": "ca0fde3ece3df8f6e1b06e5cb32d278009cc7335",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.7.3": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.7.3",
+                "source": {
+                    "reference": "7cc150daf2c1dc2d1e74fec3d0133ea922d7269e",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.7.4": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.7.4",
+                "source": {
+                    "reference": "58cc11e1487e22e273639eb54ecdb0aeb864c3c1",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.7.5": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.7.5",
+                "source": {
+                    "reference": "d96489822b9b721e44cf5b7442cc5b54113b6fe5",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.7.6": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.7.6",
+                "source": {
+                    "reference": "6773b10fb22f0f11b2634168d071cca8b1d6d422",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.7.7": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.7.7",
+                "source": {
+                    "reference": "624e84e9c3e35365e842e33caa15c2ab69ce5ef8",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.7.8": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.7.8",
+                "source": {
+                    "reference": "bac1f93f4130fba3150c12711029c9ab262d2cc2",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.7.9": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.7.9",
+                "source": {
+                    "reference": "1f09713da5e0461d93fdd36ec25366b216e41aaa",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.7.10": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.7.10",
+                "source": {
+                    "reference": "2a870e27072e1d6cebafd6042b6ae03ad80a730c",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.7.11": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.7.11",
+                "source": {
+                    "reference": "ec9c0446a92535175102fa813435a2ccf15f5a44",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.7.12": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.7.12",
+                "source": {
+                    "reference": "47538846b03cd7769f03436ec247a0abf93937bb",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.7.13": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.7.13",
+                "source": {
+                    "reference": "ebaf1f57dbf3e10f335be3bd923955976b06d74d",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.7.14": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.7.14",
+                "source": {
+                    "reference": "721e1823918bf0318bec7a0c51fc97098b187487",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.7.15": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.7.15",
+                "source": {
+                    "reference": "aa34e7f9dfe6b78efce5858d925624894f3f1e0c",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.7.16": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.7.16",
+                "source": {
+                    "reference": "61a48b65648579c9d1abe6c419cebfbc8566082d",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.7.17": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.7.17",
+                "source": {
+                    "reference": "479f9055101944b01b85b4c7030998e5691aa190",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.7.18": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.7.18",
+                "source": {
+                    "reference": "dbccc45309160aaa172c46a816aa133dc00ca3ca",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.7.19": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.7.19",
+                "source": {
+                    "reference": "f32d1b79c2b358d4f870058f0b9a74c3bfa3470b",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.7.20": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.7.20",
+                "source": {
+                    "reference": "868207bb68b36a669e35b5e940a7eeaac3915a1b",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.7.21": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.7.21",
+                "source": {
+                    "reference": "5e312645d9431a7437265c23c3cb5f12b8487c6f",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.7.22": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.7.22",
+                "source": {
+                    "reference": "ab3d2f30ee5b4a1eb8fb32f80be4e2c069e74dd1",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.7.23": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.7.23",
+                "source": {
+                    "reference": "c88e308d212a6d28841e9e2dd0d4d350228b79a7",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.7.24": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.7.24",
+                "source": {
+                    "reference": "fa2cdaf059f33b362f6f3e243551753a3aa87b4a",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.7.25-p1": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.7.25-p1",
+                "source": {
+                    "reference": "8d16b02676734d229c8ca09c13085908115e98d2",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.7.25": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.7.25",
+                "source": {
+                    "reference": "bab0620c227f5c1f0fd7d8d5d04bcef43c8c1ce4",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.7.26": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.7.26",
+                "source": {
+                    "reference": "a5abcd72c1c0c3c4f01c027ffb867c59de418bee",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.8.1": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.8.1",
+                "source": {
+                    "reference": "22bb60277036651db73dc872eaa7d2a50276b00d",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.8.2": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.8.2",
+                "source": {
+                    "reference": "5577e024a5d3d5fe17215a67e7791e1b3bccccd7",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.8.3": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.8.3",
+                "source": {
+                    "reference": "07a86e692822bedd899eba2a54aa2f6d18217c94",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.8.4": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.8.4",
+                "source": {
+                    "reference": "3c77bca702cdf58268692a1359b81b5725d24e3b",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.8.5": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.8.5",
+                "source": {
+                    "reference": "b63b879b7c8d45430e5b7b3d745935e27aff3ddb",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.8.6": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.8.6",
+                "source": {
+                    "reference": "09dd5332b0069ae061a548866690c5833508db84",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.8.7": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.8.7",
+                "source": {
+                    "reference": "db1e6dd7db47478ae07028cc989db1ce8c1c417c",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.8.8": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.8.8",
+                "source": {
+                    "reference": "2eb38ffa70ebd2748f82603d6ed0cec9e1845d29",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.8.9": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.8.9",
+                "source": {
+                    "reference": "35520b41f76f5a083c200980f41864510a337770",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.8.10": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.8.10",
+                "source": {
+                    "reference": "ee561704b90a556914d15c9c5b25fd411c43afb1",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.8.11": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.8.11",
+                "source": {
+                    "reference": "c20731399bcdf15b5aa28d00aac3784e1c9ea9fe",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.8.12": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.8.12",
+                "source": {
+                    "reference": "8f8a0bd93f0b43cb1707227cd00001d7572d0248",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.8.13": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.8.13",
+                "source": {
+                    "reference": "5099432dc4586b4b92cbdec76a1f22d20b82683b",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.8.14": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.8.14",
+                "source": {
+                    "reference": "cb1cf7765558f8d4f79d2e7d70bff14daab8bde6",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.8.15": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.8.15",
+                "source": {
+                    "reference": "87cc6a25e0f9f0bcd6804d25f78619e42ad5de48",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.8.16": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.8.16",
+                "source": {
+                    "reference": "4175dc671ff151f10d640047090105ba1dffc888",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.8.17": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.8.17",
+                "source": {
+                    "reference": "a4a1ce447ea709717978d7ed5dc0bd2cfc0df4d4",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.8.18": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.8.18",
+                "source": {
+                    "reference": "5c2da30b0195bfcc3d2d8ecd9eb002c92a065af3",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.8.19": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.8.19",
+                "source": {
+                    "reference": "fa841b90b6da6d4dce0c92171d38788bb1989ae2",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.8.20": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.8.20",
+                "source": {
+                    "reference": "6128275a0862370e4a36c9b087f52224d3dd734f",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.8.21": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.8.21",
+                "source": {
+                    "reference": "7bac4bf28b644a663f19922d2dd4f9a8313aa7ad",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.8.22": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.8.22",
+                "source": {
+                    "reference": "27c2b567a0e999f113038b4c7ecdf5c0e4b8e0ab",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.8.23": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.8.23",
+                "source": {
+                    "reference": "c8d8ddd3483e7b28a33af36205124d9218f636eb",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.8.24": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.8.24",
+                "source": {
+                    "reference": "646623698f88d6668caa9ec0ded89caad45c1995",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.8.25-p1": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.8.25-p1",
+                "source": {
+                    "reference": "9f1d2e521242bc66b36bf757dacb82536ffe303f",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.8.25": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.8.25",
+                "source": {
+                    "reference": "a48098f6183b38e3d6d2ca52e684b28196c21503",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.8.26": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.8.26",
+                "source": {
+                    "reference": "ff9bb42e142587a9afa3d6005986c1b9448b9a1e",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.9.1": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.9.1",
+                "source": {
+                    "reference": "d101cb394733f3a7d3fe6d935df0610ec2510057",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.9.2": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.9.2",
+                "source": {
+                    "reference": "47520b3fb40c5605c3436fb69de3c8e3c297d5ca",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.9.3": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.9.3",
+                "source": {
+                    "reference": "f721fd006fcad3054c11599ac1806f1e1755b956",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.9.4": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.9.4",
+                "source": {
+                    "reference": "d03c2d04a0bf5071ac82518077a787d878d80727",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.9.5": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.9.5",
+                "source": {
+                    "reference": "31bb61af9118e8cd03e6c4a4d58f67b3bbe9ae14",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.9.6": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.9.6",
+                "source": {
+                    "reference": "880a5217dbe654748a9019bfee1859e7eb639f4b",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.9.7": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.9.7",
+                "source": {
+                    "reference": "5017e7ff0d8b14311177a9004b3f775213a989c1",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.9.8": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.9.8",
+                "source": {
+                    "reference": "05a7c460ea67f446c486dfdb6fa855b2c83196d0",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.9.9": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.9.9",
+                "source": {
+                    "reference": "6f9a46de3acbf956088edf73c3431da9670020d3",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.9.10": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.9.10",
+                "source": {
+                    "reference": "6f5957a41e83ff92cb34a12778bdf73b2301ccbf",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.9.11": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.9.11",
+                "source": {
+                    "reference": "be55c7daaf073e466a5bbb576dea0a3ad8a37d6f",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.9.12": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.9.12",
+                "source": {
+                    "reference": "bf8dc0fe50c9d1e3eb6b80353104310ac5d5c162",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.9.13": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.9.13",
+                "source": {
+                    "reference": "b15d637efc5b901bd3174f29e3fd4ac7ecc76a99",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.9.14": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.9.14",
+                "source": {
+                    "reference": "14310f2b71c9cd4b2c706a0e7431a49fe3bfa923",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.9.15": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.9.15",
+                "source": {
+                    "reference": "72d9a398d4290645d460b9fe1a07721ea80adf0f",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.9.16": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.9.16",
+                "source": {
+                    "reference": "c62c0b43c36007c9d4225ecb742c914a93c17824",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.9.17": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.9.17",
+                "source": {
+                    "reference": "4081f36fd1d1348bd60441242baab107430c600d",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.9.18": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.9.18",
+                "source": {
+                    "reference": "9c765625aed133fceaffdfe49cc0d9588603bd5b",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.9.19": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.9.19",
+                "source": {
+                    "reference": "596782de9ebf524e13e5cbb8ff1ce76a04e9d6c6",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.9.20": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.9.20",
+                "source": {
+                    "reference": "3a7613f0fa1a4d34ac22bbeb9172aeffa80fd5aa",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.9.21": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.9.21",
+                "source": {
+                    "reference": "adfd185015949d51a8440be74f428ceaee42e3dd",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.9.22": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.9.22",
+                "source": {
+                    "reference": "72cdca867211d7f5aa5cb0f3162b2eb944a8a560",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.9.23-p1": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.9.23-p1",
+                "source": {
+                    "reference": "1d8a8e2f40c9c824e8ff12444e18d24a0792e923",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.9.23": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.9.23",
+                "source": {
+                    "reference": "5eb76cbb14b1a1aad8e07d98015c080e2f0c3541",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "3.9.24": {
+                "name": "SpiroAB\/wordpress",
+                "version": "3.9.24",
+                "source": {
+                    "reference": "4999dba109661ea929dc09c6de6c217a18851d99",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.0.1": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.0.1",
+                "source": {
+                    "reference": "9b5c15ec5d647663d787bd3d6aebb7f48f4fa82c",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.0.2": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.0.2",
+                "source": {
+                    "reference": "86023cf9c10a93c021eb1b7b2351ce969fc50846",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.0.3": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.0.3",
+                "source": {
+                    "reference": "6720354f4cd301ef24ac9a28bb9f48d5acb126e2",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.0.4": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.0.4",
+                "source": {
+                    "reference": "048f3e757b1e87052bc527fb237c0aec1464fc93",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.0.5": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.0.5",
+                "source": {
+                    "reference": "b8d97ab6fb6f1caa6ce5e02491173afb83f5a45f",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.0.6": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.0.6",
+                "source": {
+                    "reference": "150dd442d2b80311f2b4cb1546872eb7b975e06c",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.0.7": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.0.7",
+                "source": {
+                    "reference": "c2304a07740a2d6441ae6063f97cf6e15f02c24a",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.0.8": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.0.8",
+                "source": {
+                    "reference": "6b9da55c7e6807b9107f141ea05677db1fd1d63e",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.0.9": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.0.9",
+                "source": {
+                    "reference": "e3f99b30d15fb36fa3951a698630f253a5b67efe",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.0.10": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.0.10",
+                "source": {
+                    "reference": "1d7b4f231a83495dfea7ab3551f79cebc942ac62",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.0.11": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.0.11",
+                "source": {
+                    "reference": "86b2a8518252ad5f14e7a3e174725d715883142c",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.0.12": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.0.12",
+                "source": {
+                    "reference": "9331dcc6b51098997d074b8446e41ca0b98b6a90",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.0.13": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.0.13",
+                "source": {
+                    "reference": "d02baee0bb876f1e4abb1ad6359cee3ab8fc026e",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.0.14": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.0.14",
+                "source": {
+                    "reference": "d718a18441da97cf3e38d6eb83ea874381348765",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.0.15": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.0.15",
+                "source": {
+                    "reference": "3feeeed592740ad0a872e3f87a877c8197ee55e9",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.0.16": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.0.16",
+                "source": {
+                    "reference": "cd84ab52379e29b6f40ffe5efd4fa916a267a6ad",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.0.17": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.0.17",
+                "source": {
+                    "reference": "ce824c6fb61e0c8dacd821efdc31d5a0f26b6e84",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.0.18": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.0.18",
+                "source": {
+                    "reference": "06cbb2f915f5fee27179e70aa37f30c4ba73e41b",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.0.19": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.0.19",
+                "source": {
+                    "reference": "85f46be51969c643a6ed22b6bb6c4bda3c298fa2",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.0.20": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.0.20",
+                "source": {
+                    "reference": "f77f38a3ceb78b04e14aed0637abeadb6dcd0390",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.0.21": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.0.21",
+                "source": {
+                    "reference": "9c536fc1eb7c97bbb55bbb25e8fad11894eff6ff",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.0.22-p1": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.0.22-p1",
+                "source": {
+                    "reference": "b32fe1df9d928a561e0df3dc6b9c998fdae02203",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.0.22": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.0.22",
+                "source": {
+                    "reference": "0f88970f432a4ce1917172647a8a4fe66a890f72",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.0.23": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.0.23",
+                "source": {
+                    "reference": "39f5c758b1cb35006c95dac5285908e169a48183",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.1.1": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.1.1",
+                "source": {
+                    "reference": "921ff2746dbed2a5234b5f80f766b39800c01367",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.1.2": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.1.2",
+                "source": {
+                    "reference": "86fcbe822bb03214056ffcc3796c940f34268bfc",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.1.3": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.1.3",
+                "source": {
+                    "reference": "a2c1d37633029164732584948f55c236e228bae8",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.1.4": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.1.4",
+                "source": {
+                    "reference": "59dd0b8fd07ebcb3f8d454c730b95b815400a4f7",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.1.5": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.1.5",
+                "source": {
+                    "reference": "87816500a65c2caf2201404c968ba60ebf3898ef",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.1.6": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.1.6",
+                "source": {
+                    "reference": "0998a6d7aa3c10c6cd194583f621548a8d1332ba",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.1.7": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.1.7",
+                "source": {
+                    "reference": "170544ea73ec0a6b1cac628a4511cf4763b57978",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.1.8": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.1.8",
+                "source": {
+                    "reference": "f4e0886cd7e5d83a2bb900016cebe7938a60badf",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.1.9": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.1.9",
+                "source": {
+                    "reference": "f6402691692a7cd4673cd7721898ab368ce9bb78",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.1.10": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.1.10",
+                "source": {
+                    "reference": "bea8d6986a47edc8c223c4a5c097e4afa5aa945e",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.1.11": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.1.11",
+                "source": {
+                    "reference": "7c9e48b88d5954404f427cfa62503ab37675044a",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.1.12": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.1.12",
+                "source": {
+                    "reference": "56e2fd453482ee20eb459836613bd21fefe228ed",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.1.13": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.1.13",
+                "source": {
+                    "reference": "182f6eedf4f91afa4ed2da6cd1fe33c7f2e2dccb",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.1.14": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.1.14",
+                "source": {
+                    "reference": "04afa0dd30f9c5fc62d13dd7854e7c96a5135d5b",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.1.15": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.1.15",
+                "source": {
+                    "reference": "c0a6889f0930583d8cdc783b97b453d1f0236ffa",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.1.16": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.1.16",
+                "source": {
+                    "reference": "054ec37e04b8ff3197c0dea992ed270410716b3f",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.1.17": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.1.17",
+                "source": {
+                    "reference": "5f52e395528c008aa0585388c304da7f8ec1551b",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.1.18": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.1.18",
+                "source": {
+                    "reference": "ca3cda9e65537f26b5b5b252937ce3a2b978a6a4",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.1.19": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.1.19",
+                "source": {
+                    "reference": "1a0da51684dc3f8e3b470809f04d61da3a6f5f6a",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.1.20": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.1.20",
+                "source": {
+                    "reference": "4a4a91e6d67d8f9fc674d1b154d51e8fea89c2b0",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.1.21": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.1.21",
+                "source": {
+                    "reference": "e083e85318db661e347365432e36fe185e192477",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.1.22-p1": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.1.22-p1",
+                "source": {
+                    "reference": "bbd318bdc91216bce3a76c2ecdcf43d826a40ee2",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.1.22": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.1.22",
+                "source": {
+                    "reference": "c0966351cc3b1468174ae286bbf7ff99f1ec744e",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.1.23": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.1.23",
+                "source": {
+                    "reference": "97f31231c10810564ac7eae5b42cbd7bc265729c",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.2.1": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.2.1",
+                "source": {
+                    "reference": "087ab36c94f38ca4dc487dbfbeb23e617e40828b",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.2.2": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.2.2",
+                "source": {
+                    "reference": "0b63a9e4b66eff7826bd7319ef767d24d9b55775",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.2.3": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.2.3",
+                "source": {
+                    "reference": "30f9771a5dc148742cfd693926ddb786b322f912",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.2.4": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.2.4",
+                "source": {
+                    "reference": "5e718d83a24bc07605897e1d2774fc7f5632285a",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.2.5": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.2.5",
+                "source": {
+                    "reference": "7a0c4d10b43e41ff3a98b97a15f692a8b483920d",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.2.6": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.2.6",
+                "source": {
+                    "reference": "c62479c8e452db47d4d4b3957144ee77cbeeb871",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.2.7": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.2.7",
+                "source": {
+                    "reference": "1b7d13954d2bab2fbeebac28ba01ca995c5dae28",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.2.8": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.2.8",
+                "source": {
+                    "reference": "96d151bf3212972933c19552a3413bebc70f5718",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.2.9": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.2.9",
+                "source": {
+                    "reference": "4b573de83f89d4b9d5130ba8c20e813eb68cd7cb",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.2.10": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.2.10",
+                "source": {
+                    "reference": "c25733d39361c03bd87613d343ed0f36f592802d",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.2.11": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.2.11",
+                "source": {
+                    "reference": "4acdbd800590b35584b9cdbc027c67257a254039",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.2.12": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.2.12",
+                "source": {
+                    "reference": "e60a844b04420925e14a97fedca60d3838e3c6e6",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.2.13": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.2.13",
+                "source": {
+                    "reference": "1f7816dd80e1ec371268fac62f08640f7cafab21",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.2.14": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.2.14",
+                "source": {
+                    "reference": "7dd41ffed973a320ef90c62b522d751a595d5846",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.2.15": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.2.15",
+                "source": {
+                    "reference": "97a8b679df9ba899e9f7099f898e219a6526885d",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.2.16": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.2.16",
+                "source": {
+                    "reference": "972edf269cc88ef33421da7537a8292032ec581c",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.2.17": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.2.17",
+                "source": {
+                    "reference": "323da3ca5ff6de53478d248a748e20ad528e57b8",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.2.18": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.2.18",
+                "source": {
+                    "reference": "137c2c3ff27938f1dd333f123f25cc0adafdf2df",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.2.19-p1": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.2.19-p1",
+                "source": {
+                    "reference": "1afdee37da9b0960c5d7b57d898454b36b8787d0",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.2.19": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.2.19",
+                "source": {
+                    "reference": "018b3718dce0900e25c1ac4a0da97245ab615ea6",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.2.20": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.2.20",
+                "source": {
+                    "reference": "da9840d8472453adcc1fae6d652f656f126b04c2",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.3.1": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.3.1",
+                "source": {
+                    "reference": "759f3d894ce7d364cf8bfc755e483ac2a6d85653",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.3.2": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.3.2",
+                "source": {
+                    "reference": "a48d30f7751755c01549e809c15dacab28486986",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.3.3": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.3.3",
+                "source": {
+                    "reference": "f6869cea6cecfe1500c88fa10228842423284ce2",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.3.4": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.3.4",
+                "source": {
+                    "reference": "b49311da69751a53fe660ef94b738d8c487ada2a",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.3.5": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.3.5",
+                "source": {
+                    "reference": "583b1ecf11b560d30aef93adc6080b9f7fb65d4a",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.3.6": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.3.6",
+                "source": {
+                    "reference": "42bfc747c8678b82a64c048afba59c20f4e01b45",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.3.7": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.3.7",
+                "source": {
+                    "reference": "e73b6e4e627b7f2561ed3ff820ad16afd659b5d7",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.3.8": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.3.8",
+                "source": {
+                    "reference": "c054cfd3e9399140d733ad5af71620dad8b5a8c2",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.3.9": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.3.9",
+                "source": {
+                    "reference": "79fb97127e41b7849bae378d904138ca8a4f92bd",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.3.10": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.3.10",
+                "source": {
+                    "reference": "8d5cb6171e24bf121bf8e46fb5bb0a57a30f5833",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.3.11": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.3.11",
+                "source": {
+                    "reference": "56d86ab29aceef85a55b10d1c242049c6861b288",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.3.12": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.3.12",
+                "source": {
+                    "reference": "c362bdf151f217f074cbe91a9a3cf172390c4e8b",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.3.13": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.3.13",
+                "source": {
+                    "reference": "2f53ca73a2411c24b41aadea55800794f6faa36c",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.3.14": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.3.14",
+                "source": {
+                    "reference": "7a9b054dbd16d52df7c7667a1be47e59e73ac556",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.3.15-p1": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.3.15-p1",
+                "source": {
+                    "reference": "909759ef93af38e32aeca61de6c1b0dd8368e681",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.3.15": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.3.15",
+                "source": {
+                    "reference": "20ba7ef7d36a7199bac6adbc730f92fdd9fe5c9d",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.3.16": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.3.16",
+                "source": {
+                    "reference": "08fae238baea63aa86d6944428732b4d282e5d32",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.4.1": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.4.1",
+                "source": {
+                    "reference": "80d1f99a89bd7c892d2dccec915e62e8e4a6f8bb",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.4.2": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.4.2",
+                "source": {
+                    "reference": "e2ac39aa0e88d96336b67d40886bb02fc97cfbf5",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.4.3": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.4.3",
+                "source": {
+                    "reference": "b7fa9b0282b26fc516e0e76c2bf9bc1b71515583",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.4.4": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.4.4",
+                "source": {
+                    "reference": "357c6ba715eca24f03821a792beccb28cad1ede7",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.4.5": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.4.5",
+                "source": {
+                    "reference": "cbf6734156add07cb0e274b531108a8f7b4322c0",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.4.6": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.4.6",
+                "source": {
+                    "reference": "9542f9a0e5e200ed8b12bfaced82933d2d47c434",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.4.7": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.4.7",
+                "source": {
+                    "reference": "8d0e5fc0110c8aef1725f961d4f996f73dc5f3de",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.4.8": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.4.8",
+                "source": {
+                    "reference": "c75501c296f5612c9fdd801fe8047d8ae31f28b1",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.4.9": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.4.9",
+                "source": {
+                    "reference": "f4a43388be116e82d3448feebdf0d383e3d07ad0",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.4.10": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.4.10",
+                "source": {
+                    "reference": "2c3e046e7e08ab4e644a8702398c611a4258e29f",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.4.11": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.4.11",
+                "source": {
+                    "reference": "74332c0d42752c8026d785f881e77249713a898b",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.4.12": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.4.12",
+                "source": {
+                    "reference": "a15ac690815adce85ccc8d50ae8932519a6c5068",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.4.13": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.4.13",
+                "source": {
+                    "reference": "83f28d6ad15076b0c7827ef82b1b7fa1eecdceb4",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.4.14-p1": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.4.14-p1",
+                "source": {
+                    "reference": "7c90de1306e3a6b9f42ae27cee3bfe6010dcf673",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.4.14": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.4.14",
+                "source": {
+                    "reference": "4ebd46731381ea669e46f76bb24e62b33c51ab61",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.4.15": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.4.15",
+                "source": {
+                    "reference": "e41f8946d27f9906f9e3bdaac0661b6c46a286e5",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.5.1": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.5.1",
+                "source": {
+                    "reference": "294c6ebe24e8ec284138545fc642bcdcff3adbb0",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.5.2": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.5.2",
+                "source": {
+                    "reference": "d11bf53a9998cf8ba267c983074c1eb8f3f91dcb",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.5.3": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.5.3",
+                "source": {
+                    "reference": "1e3dcd8b0d1b07bc7e4ddfe063838dc21772e451",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.5.4": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.5.4",
+                "source": {
+                    "reference": "4c4e3a18e15ddb3770838a52c8d7f2dc42a02886",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.5.5": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.5.5",
+                "source": {
+                    "reference": "f33932899302ef01910a9785cb65998ecd8a552f",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.5.6": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.5.6",
+                "source": {
+                    "reference": "e0d99578cc3b7aef1ea2558d9a8dda7339d7c8a4",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.5.7": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.5.7",
+                "source": {
+                    "reference": "4d216979f5b5ce4b541b847262e4951891a513c7",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.5.8": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.5.8",
+                "source": {
+                    "reference": "ec5a09a7cce207c3f587712d8e831226334d3393",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.5.9": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.5.9",
+                "source": {
+                    "reference": "2d27765e05b97aa069d0ae99f2e09089d1effa49",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.5.10": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.5.10",
+                "source": {
+                    "reference": "884c4ccd6536913a9c74f474d0037b4bad68cda1",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.5.11": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.5.11",
+                "source": {
+                    "reference": "258c3a56004736dd51fc2a1c045c1b79a4d03bc3",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.5.12": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.5.12",
+                "source": {
+                    "reference": "8b378e3674fe019f3ac9eb8a9ec8619677f4025d",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.5.13-p1": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.5.13-p1",
+                "source": {
+                    "reference": "4fcfcc5c37ab4ce123de68fbf5ae36d5e229629b",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.5.13": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.5.13",
+                "source": {
+                    "reference": "66e34b50344342cb0843e7387dbf7e580407b016",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.5.14": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.5.14",
+                "source": {
+                    "reference": "1d398eba1928c7fb94b6953c5c7bffd7d6b29d32",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.6.1": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.6.1",
+                "source": {
+                    "reference": "a1673d879c36646c0b4755937adf3a0de36688bd",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.6.2": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.6.2",
+                "source": {
+                    "reference": "ed0c7131ffeb4ca597a7704395a0366625998eee",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.6.3": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.6.3",
+                "source": {
+                    "reference": "aa2252188647455c075029a1cf94dd38305e38f0",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.6.4": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.6.4",
+                "source": {
+                    "reference": "2786e68c9c5225f7c05ddce27ec7a7102d41a98a",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.6.5": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.6.5",
+                "source": {
+                    "reference": "ae86858ba4eabb2170221d9c71a3ae6c99655d66",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.6.6": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.6.6",
+                "source": {
+                    "reference": "76e86a586b0e8ba69ed5e733a296473e21b0f14c",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.6.7": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.6.7",
+                "source": {
+                    "reference": "be4c1a086a49d7d4db44d8489c327a330e8c9a48",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.6.8": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.6.8",
+                "source": {
+                    "reference": "1aa173010736085a921beb10fd420d6d863419a5",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.6.9": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.6.9",
+                "source": {
+                    "reference": "7cfbf6f1a28a6f42feb24ba4e611cc0f9fa931b3",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.6.10-p1": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.6.10-p1",
+                "source": {
+                    "reference": "961d3edc60a620c10878b88fa54fe9faa1c974f8",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.6.10": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.6.10",
+                "source": {
+                    "reference": "36db80249422ec8acc92ed526fdfa69fc9502981",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.6.11": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.6.11",
+                "source": {
+                    "reference": "2624e8925c69298d9f193400a61e9eabc34aad57",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.7.1": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.7.1",
+                "source": {
+                    "reference": "c840eb9da2ef1c7a23d3ec2d63c0d953fed56926",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.7.2": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.7.2",
+                "source": {
+                    "reference": "1ea8e9a4f03f425a6a77c3487528fedd3f33c100",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.7.3": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.7.3",
+                "source": {
+                    "reference": "2a8d1f281a2868d0f1326e89a5a40d6133abf589",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.7.4": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.7.4",
+                "source": {
+                    "reference": "2152a6a1ea3db59fcc626fe8129d6fc175e0df66",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.7.5": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.7.5",
+                "source": {
+                    "reference": "8f2b8627600d5d98a9d170b1af00d3a86dfc66df",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.7.6": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.7.6",
+                "source": {
+                    "reference": "a147bc9343cfb690e175d251f0b89ae5efb4cda3",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.7.7": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.7.7",
+                "source": {
+                    "reference": "896a5caad1b0e928df7e9e6c00c794fe44fa28d8",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.7.8": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.7.8",
+                "source": {
+                    "reference": "7f24f6457477da40b4d755665f637989dbab1e93",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.7.9-p1": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.7.9-p1",
+                "source": {
+                    "reference": "baa1ee0611a1f14a831527b3a8c8afdf09ef0d01",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.7.9": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.7.9",
+                "source": {
+                    "reference": "357d5a3847f091766fa7ace6f9c0a51f0288575c",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.7.10": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.7.10",
+                "source": {
+                    "reference": "7a3f1d66e5cf0674595f4adbbec6fa54a2e374af",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.8.1": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.8.1",
+                "source": {
+                    "reference": "dd46042e3c3b43c5ee3c17862213b0280fb5abfd",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.8.2": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.8.2",
+                "source": {
+                    "reference": "3a101dd37d14b5e78c80ba5c67f1dafc4b07e7ee",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.8.3": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.8.3",
+                "source": {
+                    "reference": "9704a857cc43017a8291d912bec1babb94f4aba1",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.8.4": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.8.4",
+                "source": {
+                    "reference": "2d8605589a119b5d46ceb70ce26bb8560c9ecdf7",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.8.5-p1": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.8.5-p1",
+                "source": {
+                    "reference": "6c89a9fe278c256e1f8d24d68437f793b9dc5d3c",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.8.5": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.8.5",
+                "source": {
+                    "reference": "977684c4ea5227e3207bba3cc9e24c799d21be9a",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.8.6": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.8.6",
+                "source": {
+                    "reference": "5453a49268a240237566df54fdf1e58ba2b4ce05",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.9.1-p1": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.9.1-p1",
+                "source": {
+                    "reference": "73aa51903cafcd865e4675c33e33c25dd63d0226",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.9.1": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.9.1",
+                "source": {
+                    "reference": "fe24185f48a5fd27294c1251de7047c54fe178ca",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.9.2-p1": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.9.2-p1",
+                "source": {
+                    "reference": "b17fc1cf7a6ab50a6bcf79c9b08754c617818887",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.9.2": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.9.2",
+                "source": {
+                    "reference": "cfa1b0b98456220b4942a953a6792cd9cf00abc2",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.9.3-p1": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.9.3-p1",
+                "source": {
+                    "reference": "2c07092d2ac89a51186e95ab344b30126113359c",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.9.3": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.9.3",
+                "source": {
+                    "reference": "bba3c55fe362e336aa24fea2844002eec0bf3944",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.9.4-p1": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.9.4-p1",
+                "source": {
+                    "reference": "72f63c32bac5d47b99a63b13e27264c83181fae1",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.9.4": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.9.4",
+                "source": {
+                    "reference": "537057d65e2713934002276c10da44fb1ccca83e",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.9.5-p1": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.9.5-p1",
+                "source": {
+                    "reference": "88611c5cfec8c848791bc9f43bf7fb55d93a8f8a",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            },
+            "4.9.5": {
+                "name": "SpiroAB\/wordpress",
+                "version": "4.9.5",
+                "source": {
+                    "reference": "a4b0b219b23fe22eb6168391385b12052cd25e3e",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                },
+                "type": "cms"
+            }
+        },
+        "SpiroAB\/isimo_grav": {
+            "v1.0.0": {
+                "name": "SpiroAB\/isimo_grav",
+                "version": "v1.0.0",
+                "source": {
+                    "reference": "9dd7be98fafc02d23e1e602625bdf5e9606eb279",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/isimo_grav.git"
+                },
+                "type": "plugin\/grav"
+            }
+        },
+        "SpiroAB\/isimo_wp": {
+            "v0.0.2": {
+                "name": "SpiroAB\/isimo_wp",
+                "version": "v0.0.2",
+                "source": {
+                    "reference": "720dd5c5bcd208b3feb767bff670928002608c61",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/isimo_wp.git"
+                },
+                "type": "plugin\/wordpress"
+            },
+            "v0.0.3": {
+                "name": "SpiroAB\/isimo_wp",
+                "version": "v0.0.3",
+                "source": {
+                    "reference": "af7a880f1952ba5cebe6f855cfc100afd5fe9fe4",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/isimo_wp.git"
+                },
+                "type": "plugin\/wordpress"
+            },
+            "v0.0.4": {
+                "name": "SpiroAB\/isimo_wp",
+                "version": "v0.0.4",
+                "source": {
+                    "reference": "6f2046afc92258110a14812313a9c4ad401ff3d5",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/isimo_wp.git"
+                },
+                "type": "plugin\/wordpress"
+            },
+            "v0.0.5": {
+                "name": "SpiroAB\/isimo_wp",
+                "version": "v0.0.5",
+                "source": {
+                    "reference": "80a7b662e8ec7b835bf7e5b4fc9b328cf8896dc1",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/isimo_wp.git"
+                },
+                "type": "plugin\/wordpress"
+            },
+            "v0.0.6": {
+                "name": "SpiroAB\/isimo_wp",
+                "version": "v0.0.6",
+                "source": {
+                    "reference": "86255d39b5c9978b671bdf3e92d402d148f6bdd1",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/isimo_wp.git"
+                },
+                "type": "plugin\/wordpress"
+            },
+            "v0.0.7": {
+                "name": "SpiroAB\/isimo_wp",
+                "version": "v0.0.7",
+                "source": {
+                    "reference": "07194d21c041f1c286633bc9eb773d02a140347b",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/isimo_wp.git"
+                },
+                "type": "plugin\/wordpress"
+            },
+            "v0.0.8": {
+                "name": "SpiroAB\/isimo_wp",
+                "version": "v0.0.8",
+                "source": {
+                    "reference": "ddf11d78b3781f5507196e389a5fa0666755727b",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/isimo_wp.git"
+                },
+                "type": "plugin\/wordpress"
+            },
+            "v0.0.9": {
+                "name": "SpiroAB\/isimo_wp",
+                "version": "v0.0.9",
+                "source": {
+                    "reference": "d17457f7b175f280698c8b493f7ce143536512d7",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/isimo_wp.git"
+                },
+                "type": "plugin\/wordpress"
+            },
+            "v0.1.0": {
+                "name": "SpiroAB\/isimo_wp",
+                "version": "v0.1.0",
+                "source": {
+                    "reference": "a367b4ba65691397c42a66ca61ee82c7ac802187",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/isimo_wp.git"
+                },
+                "type": "plugin\/wordpress"
+            },
+            "v1.0.0": {
+                "name": "SpiroAB\/isimo_wp",
+                "version": "v1.0.0",
+                "source": {
+                    "reference": "3bddc61592555b66512f1b6cc8f39d1da63043a1",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/isimo_wp.git"
+                },
+                "type": "plugin\/wordpress"
+            },
+            "v1.1.0": {
+                "name": "SpiroAB\/isimo_wp",
+                "version": "v1.1.0",
+                "source": {
+                    "reference": "f033b2b773496eb034e79b3147a368960af5d748",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/isimo_wp.git"
+                },
+                "type": "plugin\/wordpress"
+            },
+            "v1.1.1": {
+                "name": "SpiroAB\/isimo_wp",
+                "version": "v1.1.1",
+                "source": {
+                    "reference": "ccf3e884e6c90365a8b402e84e129585465d2466",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/isimo_wp.git"
+                },
+                "type": "plugin\/wordpress"
+            }
+        },
+        "SpiroAB\/wp_version_tracker": {
+            "v0.1.0": {
+                "name": "SpiroAB\/wp_version_tracker",
+                "version": "v0.1.0",
+                "source": {
+                    "reference": "3ef3c2085828c0083f13be205ed0a33b18115d9e",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wp_version_tracker.git"
+                },
+                "type": "plugin\/wordpress"
+            }
+        }
+    }
+}
