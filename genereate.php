@@ -51,19 +51,35 @@
 				{
 					continue;
 				}
-				$packages[$github_path][$tag] = [
-					'name' => $github_path,
-					'version' => $tag,
-					'source' => [
-						'reference' => $tag_data->object->sha,
-						'type' => 'git',
-						'url' => 'https://github.com/' . $github_path . '.git',
-					]
-				];
-				if($type)
+
+				$package_json = NULL;
+				$package_json_raw = $remote_site->get_page("https://raw.githubusercontent.com/{$github_path}/{$tag_data->object->sha}/composer.json");
+
+				if($package_json_raw)
+				{
+					$package_json = json_decode($package_json_raw, TRUE);
+				}
+
+				if($package_json)
+				{
+					$packages[$github_path][$tag] = $package_json;
+				}
+				else
+				{
+					$packages[$github_path][$tag] = [
+						'name' => $github_path,
+						'version' => $tag,
+					];
+				}
+				if($type AND empty($packages[$github_path][$tag]['type']))
 				{
 					$packages[$github_path][$tag]['type'] = $type;
 				}
+				$packages[$github_path][$tag]['source'] = [
+					'reference' => $tag_data->object->sha,
+					'type' => 'git',
+					'url' => 'https://github.com/' . $github_path . '.git',
+				];
 			}
 		}
 	}
