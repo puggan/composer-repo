@@ -26,11 +26,9 @@
 		global $packages;
 
 		$raw = $remote_site->get_page("https://api.github.com/repos/{$github_path}/git/refs/tags");
-		echo $raw;
 
 		/** @var phpdoc_github_tag[] $json */
 		$json = json_decode($raw);
-		print_r($json);
 
 		if($json AND $json[0])
 		{
@@ -66,7 +64,6 @@
 				{
 					$packages[$github_path][$tag]['type'] = $type;
 				}
-				print_r($packages[$github_path][$tag]);
 			}
 		}
 	}
