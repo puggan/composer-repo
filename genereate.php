@@ -66,11 +66,9 @@
 				}
 				else
 				{
-					$packages[$github_path][$tag] = [
-						'name' => $github_path,
-						'version' => $tag,
-					];
+					$packages[$github_path][$tag]['name'] = $github_path;
 				}
+				$packages[$github_path][$tag]['version'] = $tag;
 				if($type AND empty($packages[$github_path][$tag]['type']))
 				{
 					$packages[$github_path][$tag]['type'] = $type;
