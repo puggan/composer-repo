@@ -1,5 +1,159 @@
 {
     "packages": {
+        "SpiroAB\/isimo_grav": {
+            "v1.0.0": {
+                "name": "SpiroAB\/isimo_grav",
+                "version": "v1.0.0",
+                "type": "grav-plugin",
+                "source": {
+                    "reference": "9dd7be98fafc02d23e1e602625bdf5e9606eb279",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/isimo_grav.git"
+                }
+            }
+        },
+        "SpiroAB\/isimo_wp": {
+            "v0.0.2": {
+                "name": "SpiroAB\/isimo_wp",
+                "version": "v0.0.2",
+                "source": {
+                    "reference": "720dd5c5bcd208b3feb767bff670928002608c61",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/isimo_wp.git"
+                }
+            },
+            "v0.0.3": {
+                "name": "SpiroAB\/isimo_wp",
+                "version": "v0.0.3",
+                "source": {
+                    "reference": "af7a880f1952ba5cebe6f855cfc100afd5fe9fe4",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/isimo_wp.git"
+                }
+            },
+            "v0.0.4": {
+                "name": "SpiroAB\/isimo_wp",
+                "version": "v0.0.4",
+                "source": {
+                    "reference": "6f2046afc92258110a14812313a9c4ad401ff3d5",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/isimo_wp.git"
+                }
+            },
+            "v0.0.5": {
+                "name": "SpiroAB\/isimo_wp",
+                "version": "v0.0.5",
+                "source": {
+                    "reference": "80a7b662e8ec7b835bf7e5b4fc9b328cf8896dc1",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/isimo_wp.git"
+                }
+            },
+            "v0.0.6": {
+                "name": "SpiroAB\/isimo_wp",
+                "version": "v0.0.6",
+                "source": {
+                    "reference": "86255d39b5c9978b671bdf3e92d402d148f6bdd1",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/isimo_wp.git"
+                }
+            },
+            "v0.0.7": {
+                "name": "SpiroAB\/isimo_wp",
+                "version": "v0.0.7",
+                "source": {
+                    "reference": "07194d21c041f1c286633bc9eb773d02a140347b",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/isimo_wp.git"
+                }
+            },
+            "v0.0.8": {
+                "name": "SpiroAB\/isimo_wp",
+                "version": "v0.0.8",
+                "source": {
+                    "reference": "ddf11d78b3781f5507196e389a5fa0666755727b",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/isimo_wp.git"
+                }
+            },
+            "v0.0.9": {
+                "name": "SpiroAB\/isimo_wp",
+                "version": "v0.0.9",
+                "source": {
+                    "reference": "d17457f7b175f280698c8b493f7ce143536512d7",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/isimo_wp.git"
+                }
+            },
+            "v0.1.0": {
+                "name": "SpiroAB\/isimo_wp",
+                "version": "v0.1.0",
+                "source": {
+                    "reference": "a367b4ba65691397c42a66ca61ee82c7ac802187",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/isimo_wp.git"
+                }
+            },
+            "v1.0.0": {
+                "name": "SpiroAB\/isimo_wp",
+                "version": "v1.0.0",
+                "source": {
+                    "reference": "3bddc61592555b66512f1b6cc8f39d1da63043a1",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/isimo_wp.git"
+                }
+            },
+            "v1.1.0": {
+                "name": "SpiroAB\/isimo_wp",
+                "version": "v1.1.0",
+                "source": {
+                    "reference": "f033b2b773496eb034e79b3147a368960af5d748",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/isimo_wp.git"
+                }
+            },
+            "v1.1.1-p1": {
+                "name": "SpiroAB\/isimo_wp",
+                "description": "Isimo Client, wordpress plugin",
+                "type": "wordpress-plugin",
+                "require": {
+                    "composer\/installers": "~1.0",
+                    "SpiroAB\/wp_version_tracker": "~1.0"
+                },
+                "version": "v1.1.1-p1",
+                "source": {
+                    "reference": "29afed70ebec476400481ed2702584749f0fb70d",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/isimo_wp.git"
+                }
+            },
+            "v1.1.1": {
+                "name": "SpiroAB\/isimo_wp",
+                "version": "v1.1.1",
+                "source": {
+                    "reference": "ccf3e884e6c90365a8b402e84e129585465d2466",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/isimo_wp.git"
+                }
+            }
+        },
+        "SpiroAB\/page-blocks": {
+            "v1.0.0": {
+                "name": "SpiroAB\/page-blocks",
+                "description": "A simple post type that can be listed on pages using shortcode",
+                "type": "wordpress-plugin",
+                "require": {
+                    "composer\/installers": "~1.0",
+                    "SpiroAB\/wp_version_tracker": "~1.0"
+                },
+                "version": "v1.0.0",
+                "source": {
+                    "reference": "ffb6b9063f9d862b71bd80fd6958dc812de8486e",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/page-blocks.git"
+                }
+            }
+        },
         "SpiroAB\/wordpress": {
             "3.7.26": {
                 "name": "SpiroAB\/wordpress",
@@ -223,160 +377,10 @@
                 }
             }
         },
-        "SpiroAB\/isimo_grav": {
-            "v1.0.0": {
-                "name": "SpiroAB\/isimo_grav",
-                "version": "v1.0.0",
-                "type": "grav-plugin",
-                "source": {
-                    "reference": "9dd7be98fafc02d23e1e602625bdf5e9606eb279",
-                    "type": "git",
-                    "url": "https:\/\/github.com\/SpiroAB\/isimo_grav.git"
-                }
-            }
-        },
-        "SpiroAB\/isimo_wp": {
-            "v0.0.2": {
-                "name": "SpiroAB\/isimo_wp",
-                "version": "v0.0.2",
-                "type": "wordpress-plugin",
-                "source": {
-                    "reference": "720dd5c5bcd208b3feb767bff670928002608c61",
-                    "type": "git",
-                    "url": "https:\/\/github.com\/SpiroAB\/isimo_wp.git"
-                }
-            },
-            "v0.0.3": {
-                "name": "SpiroAB\/isimo_wp",
-                "version": "v0.0.3",
-                "type": "wordpress-plugin",
-                "source": {
-                    "reference": "af7a880f1952ba5cebe6f855cfc100afd5fe9fe4",
-                    "type": "git",
-                    "url": "https:\/\/github.com\/SpiroAB\/isimo_wp.git"
-                }
-            },
-            "v0.0.4": {
-                "name": "SpiroAB\/isimo_wp",
-                "version": "v0.0.4",
-                "type": "wordpress-plugin",
-                "source": {
-                    "reference": "6f2046afc92258110a14812313a9c4ad401ff3d5",
-                    "type": "git",
-                    "url": "https:\/\/github.com\/SpiroAB\/isimo_wp.git"
-                }
-            },
-            "v0.0.5": {
-                "name": "SpiroAB\/isimo_wp",
-                "version": "v0.0.5",
-                "type": "wordpress-plugin",
-                "source": {
-                    "reference": "80a7b662e8ec7b835bf7e5b4fc9b328cf8896dc1",
-                    "type": "git",
-                    "url": "https:\/\/github.com\/SpiroAB\/isimo_wp.git"
-                }
-            },
-            "v0.0.6": {
-                "name": "SpiroAB\/isimo_wp",
-                "version": "v0.0.6",
-                "type": "wordpress-plugin",
-                "source": {
-                    "reference": "86255d39b5c9978b671bdf3e92d402d148f6bdd1",
-                    "type": "git",
-                    "url": "https:\/\/github.com\/SpiroAB\/isimo_wp.git"
-                }
-            },
-            "v0.0.7": {
-                "name": "SpiroAB\/isimo_wp",
-                "version": "v0.0.7",
-                "type": "wordpress-plugin",
-                "source": {
-                    "reference": "07194d21c041f1c286633bc9eb773d02a140347b",
-                    "type": "git",
-                    "url": "https:\/\/github.com\/SpiroAB\/isimo_wp.git"
-                }
-            },
-            "v0.0.8": {
-                "name": "SpiroAB\/isimo_wp",
-                "version": "v0.0.8",
-                "type": "wordpress-plugin",
-                "source": {
-                    "reference": "ddf11d78b3781f5507196e389a5fa0666755727b",
-                    "type": "git",
-                    "url": "https:\/\/github.com\/SpiroAB\/isimo_wp.git"
-                }
-            },
-            "v0.0.9": {
-                "name": "SpiroAB\/isimo_wp",
-                "version": "v0.0.9",
-                "type": "wordpress-plugin",
-                "source": {
-                    "reference": "d17457f7b175f280698c8b493f7ce143536512d7",
-                    "type": "git",
-                    "url": "https:\/\/github.com\/SpiroAB\/isimo_wp.git"
-                }
-            },
-            "v0.1.0": {
-                "name": "SpiroAB\/isimo_wp",
-                "version": "v0.1.0",
-                "type": "wordpress-plugin",
-                "source": {
-                    "reference": "a367b4ba65691397c42a66ca61ee82c7ac802187",
-                    "type": "git",
-                    "url": "https:\/\/github.com\/SpiroAB\/isimo_wp.git"
-                }
-            },
-            "v1.0.0": {
-                "name": "SpiroAB\/isimo_wp",
-                "version": "v1.0.0",
-                "type": "wordpress-plugin",
-                "source": {
-                    "reference": "3bddc61592555b66512f1b6cc8f39d1da63043a1",
-                    "type": "git",
-                    "url": "https:\/\/github.com\/SpiroAB\/isimo_wp.git"
-                }
-            },
-            "v1.1.0": {
-                "name": "SpiroAB\/isimo_wp",
-                "version": "v1.1.0",
-                "type": "wordpress-plugin",
-                "source": {
-                    "reference": "f033b2b773496eb034e79b3147a368960af5d748",
-                    "type": "git",
-                    "url": "https:\/\/github.com\/SpiroAB\/isimo_wp.git"
-                }
-            },
-            "v1.1.1-p1": {
-                "name": "SpiroAB\/isimo_wp",
-                "description": "Isimo Client, wordpress plugin",
-                "type": "wordpress-plugin",
-                "require": {
-                    "composer\/installers": "~1.0",
-                    "SpiroAB\/wp_version_tracker": "~1.0"
-                },
-                "version": "v1.1.1-p1",
-                "source": {
-                    "reference": "29afed70ebec476400481ed2702584749f0fb70d",
-                    "type": "git",
-                    "url": "https:\/\/github.com\/SpiroAB\/isimo_wp.git"
-                }
-            },
-            "v1.1.1": {
-                "name": "SpiroAB\/isimo_wp",
-                "version": "v1.1.1",
-                "type": "wordpress-plugin",
-                "source": {
-                    "reference": "ccf3e884e6c90365a8b402e84e129585465d2466",
-                    "type": "git",
-                    "url": "https:\/\/github.com\/SpiroAB\/isimo_wp.git"
-                }
-            }
-        },
         "SpiroAB\/wp_version_tracker": {
             "v0.1.0": {
                 "name": "SpiroAB\/wp_version_tracker",
                 "version": "v0.1.0",
-                "type": "wordpress-plugin",
                 "source": {
                     "reference": "3ef3c2085828c0083f13be205ed0a33b18115d9e",
                     "type": "git",
