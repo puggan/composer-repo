@@ -1,4 +1,4 @@
-SpiroAB/wordpress cms
-SpiroAB/isimo_grav plugin/grav
-SpiroAB/isimo_wp plugin/wordpress
-SpiroAB/wp_version_tracker plugin/wordpress
+SpiroAB/wordpress wordpress-core
+SpiroAB/isimo_grav grav-plugin
+SpiroAB/isimo_wp wordpress-plugin
+SpiroAB/wp_version_tracker wordpress-plugin
