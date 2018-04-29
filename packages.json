@@ -1,5 +1,62 @@
 {
     "packages": {
+        "puggan\/upload_abs_path": {
+            "v1.0.0": {
+                "name": "puggan\/upload_abs_path",
+                "description": "Makes Wordpress able to accept absolute paths as uploads dirs",
+                "type": "wordpress-plugin",
+                "require": {
+                    "composer\/installers": "~1.0",
+                    "SpiroAB\/wp_version_tracker": "~1.0"
+                },
+                "version": "v1.0.0",
+                "source": {
+                    "reference": "45d55bbfd5da20836760310f78ac3b66bcbf859e",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/puggan\/upload_abs_path.git"
+                }
+            }
+        },
+        "puggan\/wordpress_owncloud_protection": {
+            "v1.0.1": {
+                "name": "puggan\/wordpress_owncloud_protection",
+                "description": "Use owncloud as permission check for wordpress pages",
+                "type": "wordpress-plugin",
+                "require": {
+                    "composer\/installers": "~1.0",
+                    "SpiroAB\/wp_version_tracker": "~1.0"
+                },
+                "extra": {
+                    "installer-name": "owncloud_protection"
+                },
+                "version": "v1.0.1",
+                "source": {
+                    "reference": "3e6af9a247c37906f2a99079cc4c8e9408b4184f",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/puggan\/wordpress_owncloud_protection.git"
+                }
+            }
+        },
+        "puggan\/wp_rent_objects": {
+            "v0.0.1": {
+                "name": "puggan\/wp_rent_objects",
+                "description": "Tool for showing rentable objects",
+                "type": "wordpress-plugin",
+                "require": {
+                    "composer\/installers": "~1.0",
+                    "SpiroAB\/wp_version_tracker": "~1.0"
+                },
+                "extra": {
+                    "installer-name": "rent_objects"
+                },
+                "version": "v0.0.1",
+                "source": {
+                    "reference": "511fd08be715e1619de7d33db799b633a7958028",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/puggan\/wp_rent_objects.git"
+                }
+            }
+        },
         "SpiroAB\/isimo_grav": {
             "v1.0.0": {
                 "name": "SpiroAB\/isimo_grav",
