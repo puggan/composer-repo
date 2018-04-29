@@ -154,6 +154,23 @@
                 }
             }
         },
+        "SpiroAB\/small-boxes": {
+            "v1.0.0": {
+                "name": "SpiroAB\/small-boxes",
+                "description": "Add a simple content-type, for listing a category of them anywhere",
+                "type": "wordpress-plugin",
+                "require": {
+                    "composer\/installers": "~1.0",
+                    "SpiroAB\/wp_version_tracker": "~1.0"
+                },
+                "version": "v1.0.0",
+                "source": {
+                    "reference": "636126e860ab8dfe8c12197927ab5a35b310cbbf",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/small-boxes.git"
+                }
+            }
+        },
         "SpiroAB\/wordpress": {
             "3.7.26": {
                 "name": "SpiroAB\/wordpress",
@@ -399,6 +416,38 @@
                     "reference": "9dcd5ab3e4944f92d140a0222af67e0e9ff945c6",
                     "type": "git",
                     "url": "https:\/\/github.com\/SpiroAB\/wp_version_tracker.git"
+                }
+            }
+        },
+        "wp-plugins\/sitepress-multilingual-cms": {
+            "v3.9.3": {
+                "name": "wp-plugins\/sitepress-multilingual-cms",
+                "description": "WPML Multilingual CMS",
+                "type": "wordpress-plugin",
+                "require": {
+                    "composer\/installers": "~1.0",
+                    "SpiroAB\/wp_version_tracker": "~1.0"
+                },
+                "version": "v3.9.3",
+                "source": {
+                    "reference": "41b2aa6a4396922c9133c7b6850deefa80863e07",
+                    "type": "git",
+                    "url": "gitolite3@sstage:wp-plugins\/sitepress-multilingual-cms"
+                }
+            },
+            "v3.9.4": {
+                "name": "wp-plugins\/sitepress-multilingual-cms",
+                "description": "WPML Multilingual CMS",
+                "type": "wordpress-plugin",
+                "require": {
+                    "composer\/installers": "~1.0",
+                    "SpiroAB\/wp_version_tracker": "~1.0"
+                },
+                "version": "v3.9.4",
+                "source": {
+                    "reference": "c25cdf717ebcb4c7dabc1b1db4506d97b3d18127",
+                    "type": "git",
+                    "url": "gitolite3@sstage:wp-plugins\/sitepress-multilingual-cms"
                 }
             }
         }
