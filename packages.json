@@ -506,7 +506,7 @@
                 "source": {
                     "reference": "41b2aa6a4396922c9133c7b6850deefa80863e07",
                     "type": "git",
-                    "url": "gitolite3@sstage:wp-plugins\/sitepress-multilingual-cms"
+                    "url": "gitolite3@stage.spiro.se:wp-plugins\/sitepress-multilingual-cms"
                 }
             },
             "v3.9.4": {
@@ -521,7 +521,7 @@
                 "source": {
                     "reference": "c25cdf717ebcb4c7dabc1b1db4506d97b3d18127",
                     "type": "git",
-                    "url": "gitolite3@sstage:wp-plugins\/sitepress-multilingual-cms"
+                    "url": "gitolite3@stage.spiro.se:wp-plugins\/sitepress-multilingual-cms"
                 }
             }
         },
@@ -532,7 +532,7 @@
                 "source": {
                     "reference": "f47b7db7fd63d4976ba9d40a1d3e3ea026e96d3c",
                     "type": "git",
-                    "url": "gitolite3@sstage:wp-plugins\/wpmudev-updates"
+                    "url": "gitolite3@stage.spiro.se:wp-plugins\/wpmudev-updates"
                 }
             },
             "4.5.2": {
@@ -541,7 +541,7 @@
                 "source": {
                     "reference": "3e11817b80bd3a5f79f616311925dc4fd285f9e3",
                     "type": "git",
-                    "url": "gitolite3@sstage:wp-plugins\/wpmudev-updates"
+                    "url": "gitolite3@stage.spiro.se:wp-plugins\/wpmudev-updates"
                 }
             }
         }
