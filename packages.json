@@ -524,6 +524,26 @@
                     "url": "gitolite3@sstage:wp-plugins\/sitepress-multilingual-cms"
                 }
             }
+        },
+        "wp-plugins\/wpmudev-updates": {
+            "4.3.0": {
+                "name": "wp-plugins\/wpmudev-updates",
+                "version": "4.3.0",
+                "source": {
+                    "reference": "f47b7db7fd63d4976ba9d40a1d3e3ea026e96d3c",
+                    "type": "git",
+                    "url": "gitolite3@sstage:wp-plugins\/wpmudev-updates"
+                }
+            },
+            "4.5.2": {
+                "name": "wp-plugins\/wpmudev-updates",
+                "version": "4.5.2",
+                "source": {
+                    "reference": "3e11817b80bd3a5f79f616311925dc4fd285f9e3",
+                    "type": "git",
+                    "url": "gitolite3@sstage:wp-plugins\/wpmudev-updates"
+                }
+            }
         }
     }
 }
