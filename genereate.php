@@ -92,8 +92,8 @@
 	{
 		global $packages;
 
-		$save_path = escapeshellarg($full_path);
-		$cmd = 'git ls-remote --tags ' . $save_path;
+		$safe_path = escapeshellarg($full_path);
+		$cmd = 'git ls-remote --tags --refs ' . $safe_path;
 		foreach(explode(PHP_EOL, shell_exec($cmd)) as $row)
 		{
 			$columns = explode("\t", $row);
@@ -110,7 +110,7 @@
 			}
 
 			$safe_tag = escapeshellarg($tag);
-			$cmd = 'git archive --remote=' . $save_path . ' ' . $safe_tag . ' composer.json | tar xf - --to-stdout';
+			$cmd = 'git archive --remote=' . $safe_path . ' ' . $safe_tag . ' composer.json | tar xf - --to-stdout';
 			$json_raw = shell_exec($cmd);
 			$package_json = json_decode($json_raw, TRUE);
 
