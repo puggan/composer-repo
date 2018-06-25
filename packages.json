@@ -595,6 +595,18 @@
                     "type": "git",
                     "url": "git@bitbucket.org:spiro\/drupal8-module-isimo.git"
                 }
+            },
+            "1.1.1": {
+                "name": "spiro\/isimo",
+                "type": "drupal-module",
+                "description": "Isimo Client for Drupal 8",
+                "homepage": "https:\/\/bitbucket.org\/spiro\/drupal8-module-isimo",
+                "version": "1.1.1",
+                "source": {
+                    "reference": "87a7d01f6e3e58b1ccecdaedf0f7fe2ee1eaa31e",
+                    "type": "git",
+                    "url": "git@bitbucket.org:spiro\/drupal8-module-isimo.git"
+                }
             }
         },
         "spiro\/spiro_utils": {
@@ -764,6 +776,22 @@
                     "reference": "d4e1e90c4a1229ddeea552874631e8b1ab6772d2",
                     "type": "git",
                     "url": "git@bitbucket.org:spiro\/drupal8-module-spiro_utils.git"
+                }
+            }
+        },
+        "wp-plugins\/advanced-custom-fields-pro": {
+            "5.6.10": {
+                "name": "wp-plugins\/advanced-custom-fields-pro",
+                "description": "advancedcustomfields.com",
+                "type": "wordpress-plugin",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "version": "5.6.10",
+                "source": {
+                    "reference": "fa412db154f303b95aeb8d8220693f82bb0c8f95",
+                    "type": "git",
+                    "url": "gitolite3@stage.spiro.se:wp-plugins\/advanced-custom-fields-pro"
                 }
             }
         },
