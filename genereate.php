@@ -31,7 +31,7 @@
 		}
 	}
 
-	file_put_contents(__DIR__ . '/packages.json', json_encode(['packages' => $packages], JSON_PRETTY_PRINT));
+	file_put_contents(__DIR__ . '/packages.json', json_encode(['packages' => $packages], JSON_PRETTY_PRINT) . PHP_EOL);
 
 	function add_github($repo_name_path, $type = NULL)
 	{
