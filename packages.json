@@ -791,7 +791,7 @@
                 "source": {
                     "reference": "fa412db154f303b95aeb8d8220693f82bb0c8f95",
                     "type": "git",
-                    "url": "gitolite3@stage.spiro.se:wp-plugins\/advanced-custom-fields-pro"
+                    "url": "git@bitbucket.org:spiro\/wp-plugins-advanced-custom-fields-pro"
                 }
             }
         },
@@ -808,7 +808,7 @@
                 "source": {
                     "reference": "41b2aa6a4396922c9133c7b6850deefa80863e07",
                     "type": "git",
-                    "url": "gitolite3@stage.spiro.se:wp-plugins\/sitepress-multilingual-cms"
+                    "url": "git@bitbucket.org:spiro\/wp-plugins-sitepress-multilingual-cms.git"
                 }
             },
             "v3.9.4": {
@@ -823,7 +823,7 @@
                 "source": {
                     "reference": "c25cdf717ebcb4c7dabc1b1db4506d97b3d18127",
                     "type": "git",
-                    "url": "gitolite3@stage.spiro.se:wp-plugins\/sitepress-multilingual-cms"
+                    "url": "git@bitbucket.org:spiro\/wp-plugins-sitepress-multilingual-cms.git"
                 }
             }
         },
@@ -834,7 +834,7 @@
                 "source": {
                     "reference": "f47b7db7fd63d4976ba9d40a1d3e3ea026e96d3c",
                     "type": "git",
-                    "url": "gitolite3@stage.spiro.se:wp-plugins\/wpmudev-updates"
+                    "url": "git@bitbucket.org:spiro\/wp-plugins-wpmudev-updates.git"
                 }
             },
             "4.5.2": {
@@ -843,7 +843,7 @@
                 "source": {
                     "reference": "3e11817b80bd3a5f79f616311925dc4fd285f9e3",
                     "type": "git",
-                    "url": "gitolite3@stage.spiro.se:wp-plugins\/wpmudev-updates"
+                    "url": "git@bitbucket.org:spiro\/wp-plugins-wpmudev-updates.git"
                 }
             }
         }
