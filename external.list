@@ -1,5 +1,5 @@
 spiro/isimo git@bitbucket.org:spiro/drupal8-module-isimo.git
 spiro/spiro_utils git@bitbucket.org:spiro/drupal8-module-spiro_utils.git
-wp-plugins/advanced-custom-fields-pro gitolite3@stage.spiro.se:wp-plugins/advanced-custom-fields-pro
-wp-plugins/sitepress-multilingual-cms gitolite3@stage.spiro.se:wp-plugins/sitepress-multilingual-cms
-wp-plugins/wpmudev-updates gitolite3@stage.spiro.se:wp-plugins/wpmudev-updates
+wp-plugins/advanced-custom-fields-pro git@bitbucket.org:spiro/wp-plugins-advanced-custom-fields-pro
+wp-plugins/sitepress-multilingual-cms git@bitbucket.org:spiro/wp-plugins-sitepress-multilingual-cms.git
+wp-plugins/wpmudev-updates git@bitbucket.org:spiro/wp-plugins-wpmudev-updates.git
