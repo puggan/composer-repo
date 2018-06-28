@@ -258,6 +258,17 @@
                 }
             }
         },
+        "SpiroAB\/spiro_wp_settings": {
+            "v1.0.0": {
+                "name": "SpiroAB\/spiro_wp_settings",
+                "version": "v1.0.0",
+                "source": {
+                    "reference": "eb3bf9460bd7126cc1c3753ecb7381d6906be92c",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/spiro_wp_settings.git"
+                }
+            }
+        },
         "SpiroAB\/wordpress": {
             "3.7.26": {
                 "name": "SpiroAB\/wordpress",
