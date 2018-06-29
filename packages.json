@@ -15,6 +15,21 @@
                     "type": "git",
                     "url": "https:\/\/github.com\/puggan\/upload_abs_path.git"
                 }
+            },
+            "v1.0.1": {
+                "name": "puggan\/upload_abs_path",
+                "description": "Makes Wordpress able to accept absolute paths as uploads dirs",
+                "type": "wordpress-plugin",
+                "require": {
+                    "composer\/installers": "~1.0",
+                    "SpiroAB\/wp_version_tracker": "~1.0"
+                },
+                "version": "v1.0.1",
+                "source": {
+                    "reference": "75d7ca27d8aded381e5c58ec4d7ac4939f8749f8",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/puggan\/upload_abs_path.git"
+                }
             }
         },
         "puggan\/wordpress_owncloud_protection": {
@@ -264,6 +279,15 @@
                 "version": "v1.0.0",
                 "source": {
                     "reference": "eb3bf9460bd7126cc1c3753ecb7381d6906be92c",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/spiro_wp_settings.git"
+                }
+            },
+            "v1.0.1": {
+                "name": "SpiroAB\/spiro_wp_settings",
+                "version": "v1.0.1",
+                "source": {
+                    "reference": "9a76109e0be077a5ebd9e109f74b3a89d2c022fc",
                     "type": "git",
                     "url": "https:\/\/github.com\/SpiroAB\/spiro_wp_settings.git"
                 }
