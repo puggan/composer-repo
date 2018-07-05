@@ -311,6 +311,23 @@
                     "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
                 }
             },
+            "3.7.27": {
+                "name": "SpiroAB\/wordpress",
+                "description": "Wordpress with a few bugfix-patches, and no wp-content",
+                "type": "wordpress-core",
+                "require": {
+                    "oomphinc\/composer-installers-extender": "^1.1"
+                },
+                "extra": {
+                    "installer-name": "wp"
+                },
+                "version": "3.7.27",
+                "source": {
+                    "reference": "d50e661e50763df00caedaf78ef7d82fe5006c4c",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                }
+            },
             "3.8.26": {
                 "name": "SpiroAB\/wordpress",
                 "description": "Wordpress with a few bugfix-patches, and no wp-content",
@@ -324,6 +341,23 @@
                 "version": "3.8.26",
                 "source": {
                     "reference": "ae09b954fe14c39503e4ca2dc2848eecb775320b",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                }
+            },
+            "3.8.27": {
+                "name": "SpiroAB\/wordpress",
+                "description": "Wordpress with a few bugfix-patches, and no wp-content",
+                "type": "wordpress-core",
+                "require": {
+                    "oomphinc\/composer-installers-extender": "^1.1"
+                },
+                "extra": {
+                    "installer-name": "wp"
+                },
+                "version": "3.8.27",
+                "source": {
+                    "reference": "1d67dde1a0760bc2586e881754a4694156c63866",
                     "type": "git",
                     "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
                 }
@@ -345,6 +379,23 @@
                     "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
                 }
             },
+            "3.9.25": {
+                "name": "SpiroAB\/wordpress",
+                "description": "Wordpress with a few bugfix-patches, and no wp-content",
+                "type": "wordpress-core",
+                "require": {
+                    "oomphinc\/composer-installers-extender": "^1.1"
+                },
+                "extra": {
+                    "installer-name": "wp"
+                },
+                "version": "3.9.25",
+                "source": {
+                    "reference": "053ce5e86611427dfd71eba006a3f725770488e3",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                }
+            },
             "4.0.23": {
                 "name": "SpiroAB\/wordpress",
                 "description": "Wordpress with a few bugfix-patches, and no wp-content",
@@ -358,6 +409,23 @@
                 "version": "4.0.23",
                 "source": {
                     "reference": "2c47258e11e015f9ad6a41d32a617540eaaaea40",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                }
+            },
+            "4.0.24": {
+                "name": "SpiroAB\/wordpress",
+                "description": "Wordpress with a few bugfix-patches, and no wp-content",
+                "type": "wordpress-core",
+                "require": {
+                    "oomphinc\/composer-installers-extender": "^1.1"
+                },
+                "extra": {
+                    "installer-name": "wp"
+                },
+                "version": "4.0.24",
+                "source": {
+                    "reference": "aa7e92c3c953b2dd3f71d0c40774839651033e59",
                     "type": "git",
                     "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
                 }
@@ -379,6 +447,23 @@
                     "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
                 }
             },
+            "4.1.24": {
+                "name": "SpiroAB\/wordpress",
+                "description": "Wordpress with a few bugfix-patches, and no wp-content",
+                "type": "wordpress-core",
+                "require": {
+                    "oomphinc\/composer-installers-extender": "^1.1"
+                },
+                "extra": {
+                    "installer-name": "wp"
+                },
+                "version": "4.1.24",
+                "source": {
+                    "reference": "efece630d75c95755fd93732bd9dd7238d82a74d",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                }
+            },
             "4.2.20": {
                 "name": "SpiroAB\/wordpress",
                 "description": "Wordpress with a few bugfix-patches, and no wp-content",
@@ -392,6 +477,23 @@
                 "version": "4.2.20",
                 "source": {
                     "reference": "2fb6cfc5007873d80e002b5c24d6f08ca4cac68f",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                }
+            },
+            "4.2.21": {
+                "name": "SpiroAB\/wordpress",
+                "description": "Wordpress with a few bugfix-patches, and no wp-content",
+                "type": "wordpress-core",
+                "require": {
+                    "oomphinc\/composer-installers-extender": "^1.1"
+                },
+                "extra": {
+                    "installer-name": "wp"
+                },
+                "version": "4.2.21",
+                "source": {
+                    "reference": "ac41531b47cdfa4e102b73f6fdc3005dbc13de0a",
                     "type": "git",
                     "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
                 }
@@ -413,6 +515,23 @@
                     "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
                 }
             },
+            "4.3.17": {
+                "name": "SpiroAB\/wordpress",
+                "description": "Wordpress with a few bugfix-patches, and no wp-content",
+                "type": "wordpress-core",
+                "require": {
+                    "oomphinc\/composer-installers-extender": "^1.1"
+                },
+                "extra": {
+                    "installer-name": "wp"
+                },
+                "version": "4.3.17",
+                "source": {
+                    "reference": "d2393f0cc4a5deb0a5facfaf010d5bf196229eac",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                }
+            },
             "4.4.15": {
                 "name": "SpiroAB\/wordpress",
                 "description": "Wordpress with a few bugfix-patches, and no wp-content",
@@ -426,6 +545,23 @@
                 "version": "4.4.15",
                 "source": {
                     "reference": "df85f4ec07e655fe64f3df57eb8dc159baf6c45f",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                }
+            },
+            "4.4.16": {
+                "name": "SpiroAB\/wordpress",
+                "description": "Wordpress with a few bugfix-patches, and no wp-content",
+                "type": "wordpress-core",
+                "require": {
+                    "oomphinc\/composer-installers-extender": "^1.1"
+                },
+                "extra": {
+                    "installer-name": "wp"
+                },
+                "version": "4.4.16",
+                "source": {
+                    "reference": "44940d1e21861b652724c87af36fc7cb59dbcc1b",
                     "type": "git",
                     "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
                 }
@@ -447,6 +583,23 @@
                     "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
                 }
             },
+            "4.5.15": {
+                "name": "SpiroAB\/wordpress",
+                "description": "Wordpress with a few bugfix-patches, and no wp-content",
+                "type": "wordpress-core",
+                "require": {
+                    "oomphinc\/composer-installers-extender": "^1.1"
+                },
+                "extra": {
+                    "installer-name": "wp"
+                },
+                "version": "4.5.15",
+                "source": {
+                    "reference": "bedc984615a7f69dbde42bac8f6b4bd159bb2136",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                }
+            },
             "4.6.11": {
                 "name": "SpiroAB\/wordpress",
                 "description": "Wordpress with a few bugfix-patches, and no wp-content",
@@ -460,6 +613,23 @@
                 "version": "4.6.11",
                 "source": {
                     "reference": "9792f91553b5f9437ef8b559066a78a957bbfd22",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                }
+            },
+            "4.6.12": {
+                "name": "SpiroAB\/wordpress",
+                "description": "Wordpress with a few bugfix-patches, and no wp-content",
+                "type": "wordpress-core",
+                "require": {
+                    "oomphinc\/composer-installers-extender": "^1.1"
+                },
+                "extra": {
+                    "installer-name": "wp"
+                },
+                "version": "4.6.12",
+                "source": {
+                    "reference": "4712672dd189c7636709d9637c27b6843d35ef41",
                     "type": "git",
                     "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
                 }
@@ -481,6 +651,23 @@
                     "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
                 }
             },
+            "4.7.11": {
+                "name": "SpiroAB\/wordpress",
+                "description": "Wordpress with a few bugfix-patches, and no wp-content",
+                "type": "wordpress-core",
+                "require": {
+                    "oomphinc\/composer-installers-extender": "^1.1"
+                },
+                "extra": {
+                    "installer-name": "wp"
+                },
+                "version": "4.7.11",
+                "source": {
+                    "reference": "08263daea6567de1987867e17af8ece6ba946ecb",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                }
+            },
             "4.8.6": {
                 "name": "SpiroAB\/wordpress",
                 "description": "Wordpress with a few bugfix-patches, and no wp-content",
@@ -494,6 +681,23 @@
                 "version": "4.8.6",
                 "source": {
                     "reference": "cce20bc085d2474388c39d550544cdfcbdd184ce",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                }
+            },
+            "4.8.7": {
+                "name": "SpiroAB\/wordpress",
+                "description": "Wordpress with a few bugfix-patches, and no wp-content",
+                "type": "wordpress-core",
+                "require": {
+                    "oomphinc\/composer-installers-extender": "^1.1"
+                },
+                "extra": {
+                    "installer-name": "wp"
+                },
+                "version": "4.8.7",
+                "source": {
+                    "reference": "bcde733d342b4ae0a92a1a5947ab1d1d63dbff54",
                     "type": "git",
                     "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
                 }
@@ -528,6 +732,23 @@
                 "version": "4.9.6",
                 "source": {
                     "reference": "2a7209e97c1cfa41851111f27deeb7ed701347c0",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                }
+            },
+            "4.9.7": {
+                "name": "SpiroAB\/wordpress",
+                "description": "Wordpress with a few bugfix-patches, and no wp-content",
+                "type": "wordpress-core",
+                "require": {
+                    "oomphinc\/composer-installers-extender": "^1.1"
+                },
+                "extra": {
+                    "installer-name": "wp"
+                },
+                "version": "4.9.7",
+                "source": {
+                    "reference": "33f8f30b75db6fd57b1af30d37e1fd59a78a0a35",
                     "type": "git",
                     "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
                 }
