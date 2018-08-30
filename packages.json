@@ -254,6 +254,21 @@
                     "type": "git",
                     "url": "https:\/\/github.com\/SpiroAB\/page-blocks.git"
                 }
+            },
+            "v1.0.1": {
+                "name": "SpiroAB\/page-blocks",
+                "description": "A simple post type that can be listed on pages using shortcode",
+                "type": "wordpress-plugin",
+                "require": {
+                    "composer\/installers": "~1.0",
+                    "SpiroAB\/wp_version_tracker": "~1.0"
+                },
+                "version": "v1.0.1",
+                "source": {
+                    "reference": "7b5e0f53fadd5d50b96de20e24358f873e656934",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/page-blocks.git"
+                }
             }
         },
         "SpiroAB\/small-boxes": {
@@ -268,6 +283,21 @@
                 "version": "v1.0.0",
                 "source": {
                     "reference": "636126e860ab8dfe8c12197927ab5a35b310cbbf",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/small-boxes.git"
+                }
+            },
+            "v1.0.1": {
+                "name": "SpiroAB\/small-boxes",
+                "description": "Add a simple content-type, for listing a category of them anywhere",
+                "type": "wordpress-plugin",
+                "require": {
+                    "composer\/installers": "~1.0",
+                    "SpiroAB\/wp_version_tracker": "~1.0"
+                },
+                "version": "v1.0.1",
+                "source": {
+                    "reference": "dc1bc875bde00e3bab5ad3ca81c603d2df4784ec",
                     "type": "git",
                     "url": "https:\/\/github.com\/SpiroAB\/small-boxes.git"
                 }
