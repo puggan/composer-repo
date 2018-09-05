@@ -1080,6 +1080,18 @@
                     "type": "git",
                     "url": "git@bitbucket.org:spiro\/drupal8-module-spiro_utils.git"
                 }
+            },
+            "1.1.5": {
+                "name": "spiro\/spiro_utils",
+                "type": "drupal-module",
+                "description": "Random Drupal 8 utilities",
+                "homepage": "https:\/\/bitbucket.org\/spiro\/drupal8-module-spiro_utils",
+                "version": "1.1.5",
+                "source": {
+                    "reference": "13ede74cc6e79d3d89fe5d73d3053f72f50727cb",
+                    "type": "git",
+                    "url": "git@bitbucket.org:spiro\/drupal8-module-spiro_utils.git"
+                }
             }
         },
         "wp-plugins\/advanced-custom-fields-pro": {
