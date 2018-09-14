@@ -321,6 +321,21 @@
                     "type": "git",
                     "url": "https:\/\/github.com\/SpiroAB\/spiro_wp_settings.git"
                 }
+            },
+            "v1.0.2": {
+                "name": "SpiroAB\/spiro_wp_settings",
+                "description": "Wordpress pluing to set some default settings to make a good base",
+                "type": "wordpress-plugin",
+                "require": {
+                    "composer\/installers": "~1.0",
+                    "SpiroAB\/wp_version_tracker": "~1.0"
+                },
+                "version": "v1.0.2",
+                "source": {
+                    "reference": "a1ec01dd683d8be5c4540121ea5b22ce88478cc8",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/spiro_wp_settings.git"
+                }
             }
         },
         "SpiroAB\/wordpress": {
