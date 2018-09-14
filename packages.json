@@ -1123,6 +1123,20 @@
                     "type": "git",
                     "url": "git@bitbucket.org:spiro\/wp-plugins-advanced-custom-fields-pro"
                 }
+            },
+            "5.7.6": {
+                "name": "wp-plugins\/advanced-custom-fields-pro",
+                "description": "advancedcustomfields.com",
+                "type": "wordpress-plugin",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "version": "5.7.6",
+                "source": {
+                    "reference": "24973d2b3fd298e5c3bd3dcdccda013954238745",
+                    "type": "git",
+                    "url": "git@bitbucket.org:spiro\/wp-plugins-advanced-custom-fields-pro"
+                }
             }
         },
         "wp-plugins\/sitepress-multilingual-cms": {
