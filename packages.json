@@ -861,7 +861,7 @@
                 "homepage": "https:\/\/bitbucket.org\/spiro\/drupal8-module-isimo",
                 "version": "1.0.1",
                 "source": {
-                    "reference": "eb2379feef1f37f649b050a93b08dd0a2e4d28cf",
+                    "reference": "894f4e017dbce75c4a413dda94ba70325e8dffa7",
                     "type": "git",
                     "url": "git@bitbucket.org:spiro\/drupal8-module-isimo.git"
                 }
@@ -873,7 +873,7 @@
                 "homepage": "https:\/\/bitbucket.org\/spiro\/drupal8-module-isimo",
                 "version": "1.0.2",
                 "source": {
-                    "reference": "e19c84eb6c9ce43c03ed8976f014b3c166cd73ef",
+                    "reference": "323f677d52e87c5d26c74cf96ded92d1e33f8d15",
                     "type": "git",
                     "url": "git@bitbucket.org:spiro\/drupal8-module-isimo.git"
                 }
@@ -885,7 +885,7 @@
                 "homepage": "https:\/\/bitbucket.org\/spiro\/drupal8-module-isimo",
                 "version": "1.0.3",
                 "source": {
-                    "reference": "3d8495b5f9800cabd313cc62b630e9bd14448257",
+                    "reference": "061ce721ed2fdff8f217d23dc80633fda7d4f7d1",
                     "type": "git",
                     "url": "git@bitbucket.org:spiro\/drupal8-module-isimo.git"
                 }
@@ -897,7 +897,7 @@
                 "homepage": "https:\/\/bitbucket.org\/spiro\/drupal8-module-isimo",
                 "version": "1.0.4",
                 "source": {
-                    "reference": "79866f3bd977f2471f8727adc1eded62ae53cf3b",
+                    "reference": "9a90ce9f2652c2e209facb1a85119f09c96bed73",
                     "type": "git",
                     "url": "git@bitbucket.org:spiro\/drupal8-module-isimo.git"
                 }
@@ -909,7 +909,7 @@
                 "homepage": "https:\/\/bitbucket.org\/spiro\/drupal8-module-isimo",
                 "version": "1.1.0",
                 "source": {
-                    "reference": "76bbb8ccf8b3f5fd31d00a7fb0f5f5a92dc02485",
+                    "reference": "dccf37dd451dbb064b6a106311485885acd25581",
                     "type": "git",
                     "url": "git@bitbucket.org:spiro\/drupal8-module-isimo.git"
                 }
@@ -921,7 +921,19 @@
                 "homepage": "https:\/\/bitbucket.org\/spiro\/drupal8-module-isimo",
                 "version": "1.1.1",
                 "source": {
-                    "reference": "87a7d01f6e3e58b1ccecdaedf0f7fe2ee1eaa31e",
+                    "reference": "0829c332dd2df1a56cbaca4832558b8fc82a0fea",
+                    "type": "git",
+                    "url": "git@bitbucket.org:spiro\/drupal8-module-isimo.git"
+                }
+            },
+            "1.1.2": {
+                "name": "spiro\/isimo",
+                "type": "drupal-module",
+                "description": "Isimo Client for Drupal 8",
+                "homepage": "https:\/\/bitbucket.org\/spiro\/drupal8-module-isimo",
+                "version": "1.1.2",
+                "source": {
+                    "reference": "5b676b6f0f223c31832d646f3e88bfefa543176e",
                     "type": "git",
                     "url": "git@bitbucket.org:spiro\/drupal8-module-isimo.git"
                 }
