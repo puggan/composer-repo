@@ -43,7 +43,7 @@
 		/** @var phpdoc_github_tag[] $json */
 		$json = json_decode($raw);
 
-		if($json AND $json[0])
+		if($json AND is_array($json) AND $json[0])
 		{
 			foreach($json as $tag_data)
 			{
@@ -85,6 +85,10 @@
 				];
 				$packages[$repo_name_path][$tag] = $package_json;
 			}
+		}
+		else
+		{
+			echo 'Failed to parse json:', $raw, PHP_EOL;
 		}
 	}
 
