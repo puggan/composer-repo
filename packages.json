@@ -2309,6 +2309,23 @@
                     "url": "git@bitbucket.org:spiro\/wp-plugins-wpmudev-updates.git"
                 }
             }
+        },
+        "wp-plugins\/wpml-media-translation": {
+            "v2.3.7": {
+                "name": "wp-plugins\/wpml-media-translation",
+                "description": " WPML Media",
+                "type": "wordpress-plugin",
+                "require": {
+                    "composer\/installers": "~1.0",
+                    "SpiroAB\/wp_version_tracker": "~1.0"
+                },
+                "version": "v2.3.7",
+                "source": {
+                    "reference": "e709b4a50d937cfc896a1e4bbadecb7fcc540731",
+                    "type": "git",
+                    "url": "git@bitbucket.org:spiro\/wp-plugins-wpml-media-translation.git"
+                }
+            }
         }
     }
 }
