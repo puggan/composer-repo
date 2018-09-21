@@ -4,3 +4,6 @@ wp-plugins/advanced-custom-fields-pro git@bitbucket.org:spiro/wp-plugins-advance
 wp-plugins/sitepress-multilingual-cms git@bitbucket.org:spiro/wp-plugins-sitepress-multilingual-cms.git
 wp-plugins/wpmudev-updates git@bitbucket.org:spiro/wp-plugins-wpmudev-updates.git
 wp-plugins/wpml-media-translation git@bitbucket.org:spiro/wp-plugins-wpml-media-translation.git
+wp-plugins/wpml-string-translation git@bitbucket.org:spiro/wp-plugins-wpml-string-translation.git
+wp-plugins/wpml-translation-management git@bitbucket.org:spiro/wp-plugins-wpml-translation-management.git
+wp-plugins/acfml git@bitbucket.org:spiro/wp-plugins-wpml-translation-management.git

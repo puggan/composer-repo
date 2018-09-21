@@ -2313,7 +2313,7 @@
         "wp-plugins\/wpml-media-translation": {
             "v2.3.7": {
                 "name": "wp-plugins\/wpml-media-translation",
-                "description": " WPML Media",
+                "description": "WPML Media",
                 "type": "wordpress-plugin",
                 "require": {
                     "composer\/installers": "~1.0",
@@ -2321,7 +2321,7 @@
                 },
                 "version": "v2.3.7",
                 "source": {
-                    "reference": "e709b4a50d937cfc896a1e4bbadecb7fcc540731",
+                    "reference": "b24c40d9de2b57f55723f5bc4753101e8b2fbf98",
                     "type": "git",
                     "url": "git@bitbucket.org:spiro\/wp-plugins-wpml-media-translation.git"
                 }
