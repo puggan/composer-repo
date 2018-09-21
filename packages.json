@@ -2276,9 +2276,15 @@
             },
             "v4.0.7": {
                 "name": "wp-plugins\/sitepress-multilingual-cms",
+                "description": "WPML Multilingual CMS",
+                "type": "wordpress-plugin",
+                "require": {
+                    "composer\/installers": "~1.0",
+                    "SpiroAB\/wp_version_tracker": "~1.0"
+                },
                 "version": "v4.0.7",
                 "source": {
-                    "reference": "e792d90acd3b13fdb7cd75b4d0912544eb7d3fdf",
+                    "reference": "ba2d7f4a88e0001a3af5068b3be0fb31ad47dd3e",
                     "type": "git",
                     "url": "git@bitbucket.org:spiro\/wp-plugins-sitepress-multilingual-cms.git"
                 }
