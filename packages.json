@@ -841,6 +841,28 @@
                 }
             }
         },
+        "SpiroAB\/isimo-silverstripe-3": {
+            "v0.0.1": {
+                "name": "spiroab\/isimo-silverstripe-3",
+                "description": "Isimo-client for silverstripe 3 projects",
+                "type": "silverstripe-module",
+                "require": {
+                    "ext-json": "*",
+                    "silverstripe\/cms": "^3"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "SpiroAB\\Isimo\\": "src\/"
+                    }
+                },
+                "version": "v0.0.1",
+                "source": {
+                    "reference": "c1a1f7e442ae97c41b2ceb054b3d6b71c5ec6bb5",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/isimo-silverstripe-3.git"
+                }
+            }
+        },
         "spiro\/isimo": {
             "1.0.0": {
                 "name": "drupal\/isimo",
