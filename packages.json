@@ -2365,7 +2365,7 @@
         },
         "wp-plugins\/wpml-translation-management": {
             "v2.6.7": {
-                "name": "wpml-translation-management",
+                "name": "wp-plugins\/wpml-translation-management",
                 "description": "WPML Translation Management",
                 "type": "wordpress-plugin",
                 "require": {
@@ -2374,7 +2374,7 @@
                 },
                 "version": "v2.6.7",
                 "source": {
-                    "reference": "5ac398be600f697d2fc3e3666fc1162824867bae",
+                    "reference": "f1e3c0d42b202708fc25cf7db368c24eaefc8843",
                     "type": "git",
                     "url": "git@bitbucket.org:spiro\/wp-plugins-wpml-translation-management.git"
                 }
