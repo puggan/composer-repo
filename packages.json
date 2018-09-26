@@ -2348,7 +2348,7 @@
         },
         "wp-plugins\/wpml-string-translation": {
             "v2.8.7": {
-                "name": "wpml-string-translation",
+                "name": "wp-plugins\/wpml-string-translation",
                 "description": "WPML String Translation",
                 "type": "wordpress-plugin",
                 "require": {
@@ -2357,7 +2357,7 @@
                 },
                 "version": "v2.8.7",
                 "source": {
-                    "reference": "bd316446fc5c7466b6f859ca0e083542a870cd92",
+                    "reference": "423e7ceb7aab54d2d3ab73d0c80904c84dea8ab7",
                     "type": "git",
                     "url": "git@bitbucket.org:spiro\/wp-plugins-wpml-string-translation.git"
                 }
