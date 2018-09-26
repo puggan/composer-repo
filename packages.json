@@ -1143,6 +1143,23 @@
                 }
             }
         },
+        "wp-plugins\/acfml": {
+            "v0.8.0": {
+                "name": "wp-plugins\/acfml",
+                "description": "Advanced Custom Fields Multilingual",
+                "type": "wordpress-plugin",
+                "require": {
+                    "composer\/installers": "~1.0",
+                    "SpiroAB\/wp_version_tracker": "~1.0"
+                },
+                "version": "v0.8.0",
+                "source": {
+                    "reference": "445a2dc5d38f56416a698aea6b60bbe8a753ec77",
+                    "type": "git",
+                    "url": "git@bitbucket.org:spiro\/wp-plugins-acfml.git"
+                }
+            }
+        },
         "wp-plugins\/advanced-custom-fields-pro": {
             "5.0.0": {
                 "name": "wp-plugins\/advanced-custom-fields-pro",
@@ -2312,26 +2329,6 @@
                 }
             }
         },
-        "wp-plugins\/wpmudev-updates": {
-            "4.3.0": {
-                "name": "wp-plugins\/wpmudev-updates",
-                "version": "4.3.0",
-                "source": {
-                    "reference": "f47b7db7fd63d4976ba9d40a1d3e3ea026e96d3c",
-                    "type": "git",
-                    "url": "git@bitbucket.org:spiro\/wp-plugins-wpmudev-updates.git"
-                }
-            },
-            "4.5.2": {
-                "name": "wp-plugins\/wpmudev-updates",
-                "version": "4.5.2",
-                "source": {
-                    "reference": "3e11817b80bd3a5f79f616311925dc4fd285f9e3",
-                    "type": "git",
-                    "url": "git@bitbucket.org:spiro\/wp-plugins-wpmudev-updates.git"
-                }
-            }
-        },
         "wp-plugins\/wpml-media-translation": {
             "v2.3.7": {
                 "name": "wp-plugins\/wpml-media-translation",
@@ -2383,20 +2380,23 @@
                 }
             }
         },
-        "wp-plugins\/acfml": {
-            "v2.6.7": {
-                "name": "wpml-translation-management",
-                "description": "WPML Translation Management",
-                "type": "wordpress-plugin",
-                "require": {
-                    "composer\/installers": "~1.0",
-                    "SpiroAB\/wp_version_tracker": "~1.0"
-                },
-                "version": "v2.6.7",
+        "wp-plugins\/wpmudev-updates": {
+            "4.3.0": {
+                "name": "wp-plugins\/wpmudev-updates",
+                "version": "4.3.0",
                 "source": {
-                    "reference": "5ac398be600f697d2fc3e3666fc1162824867bae",
+                    "reference": "f47b7db7fd63d4976ba9d40a1d3e3ea026e96d3c",
                     "type": "git",
-                    "url": "git@bitbucket.org:spiro\/wp-plugins-wpml-translation-management.git"
+                    "url": "git@bitbucket.org:spiro\/wp-plugins-wpmudev-updates.git"
+                }
+            },
+            "4.5.2": {
+                "name": "wp-plugins\/wpmudev-updates",
+                "version": "4.5.2",
+                "source": {
+                    "reference": "3e11817b80bd3a5f79f616311925dc4fd285f9e3",
+                    "type": "git",
+                    "url": "git@bitbucket.org:spiro\/wp-plugins-wpmudev-updates.git"
                 }
             }
         }
