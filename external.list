@@ -1,5 +1,7 @@
 spiro/isimo git@bitbucket.org:spiro/drupal8-module-isimo.git
+spiro/magento2-plugin-urlkeymask git@bitbucket.org:spiro/magento2-plugin-urlkeymask.git
 spiro/spiro_utils git@bitbucket.org:spiro/drupal8-module-spiro_utils.git
+spiro/magento2-plugin-isimo git@bitbucket.org:spiro/magento2-plugin-isimo.git
 wp-plugins/acfml git@bitbucket.org:spiro/wp-plugins-acfml.git
 wp-plugins/advanced-custom-fields-pro git@bitbucket.org:spiro/wp-plugins-advanced-custom-fields-pro
 wp-plugins/sitepress-multilingual-cms git@bitbucket.org:spiro/wp-plugins-sitepress-multilingual-cms.git
