@@ -248,7 +248,7 @@
                 },
                 "version": "v1.1.4",
                 "source": {
-                    "reference": "ee6fd34b6319ffc3b38faffad306fac10f3baccd",
+                    "reference": "c0350f16b32affd512fd7a28ad70f2900e19721b",
                     "type": "git",
                     "url": "https:\/\/github.com\/SpiroAB\/isimo_wp.git"
                 }
