@@ -82,6 +82,16 @@
                     "type": "git",
                     "url": "https:\/\/github.com\/SpiroAB\/isimo_grav.git"
                 }
+            },
+            "v1.0.1": {
+                "name": "SpiroAB\/isimo_grav",
+                "version": "v1.0.1",
+                "type": "grav-plugin",
+                "source": {
+                    "reference": "5622e1f4c0b1dbe6b9f6f07518af32f9d3ba2af8",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/isimo_grav.git"
+                }
             }
         },
         "SpiroAB\/isimo_wp": {
@@ -1215,6 +1225,18 @@
                 "version": "1.1.5",
                 "source": {
                     "reference": "13ede74cc6e79d3d89fe5d73d3053f72f50727cb",
+                    "type": "git",
+                    "url": "git@bitbucket.org:spiro\/drupal8-module-spiro_utils.git"
+                }
+            },
+            "1.1.6": {
+                "name": "spiro\/spiro_utils",
+                "type": "drupal-module",
+                "description": "Random Drupal 8 utilities",
+                "homepage": "https:\/\/bitbucket.org\/spiro\/drupal8-module-spiro_utils",
+                "version": "1.1.6",
+                "source": {
+                    "reference": "b1b0657075fd731b8e418c10db8d756845426070",
                     "type": "git",
                     "url": "git@bitbucket.org:spiro\/drupal8-module-spiro_utils.git"
                 }
