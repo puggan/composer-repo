@@ -1723,11 +1723,6 @@
             },
             "5.3.1": {
                 "name": "wp-plugins\/advanced-custom-fields-pro",
-                "description": "advancedcustomfields.com",
-                "type": "wordpress-plugin",
-                "require": {
-                    "composer\/installers": "~1.0"
-                },
                 "version": "5.3.1",
                 "source": {
                     "reference": "7dfac57b2ec62b46d36cffa8fbd24082dfe40a66",
@@ -2129,11 +2124,6 @@
             },
             "5.5.7": {
                 "name": "wp-plugins\/advanced-custom-fields-pro",
-                "description": "advancedcustomfields.com",
-                "type": "wordpress-plugin",
-                "require": {
-                    "composer\/installers": "~1.0"
-                },
                 "version": "5.5.7",
                 "source": {
                     "reference": "d4942183fc1db379112438720c8d3878c7dcff5a",
@@ -2506,12 +2496,6 @@
         "wp-plugins\/wpml-translation-management": {
             "v2.6.7": {
                 "name": "wp-plugins\/wpml-translation-management",
-                "description": "WPML Translation Management",
-                "type": "wordpress-plugin",
-                "require": {
-                    "composer\/installers": "~1.0",
-                    "SpiroAB\/wp_version_tracker": "~1.0"
-                },
                 "version": "v2.6.7",
                 "source": {
                     "reference": "f1e3c0d42b202708fc25cf7db368c24eaefc8843",
