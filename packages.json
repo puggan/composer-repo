@@ -1,5 +1,49 @@
 {
     "packages": {
+        "puggan\/cashid": {
+            "v0.0.1": {
+                "name": "puggan\/cashid",
+                "description": "CachID library for php",
+                "type": "library",
+                "license": "MIT",
+                "authors": [
+                    {
+                        "name": "Thorbj\u00f6rn Sundragon",
+                        "email": "puggan@spiro.se"
+                    }
+                ],
+                "require": {
+                    "ext-json": "*",
+                    "mdanter\/ecc": "^0.5.0",
+                    "ext-gmp": "*"
+                },
+                "require-dev": {
+                    "phpunit\/phpunit": "^7.4"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Puggan\\CashID\\": "src"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Tests\\Puggan\\CashID\\": "tests"
+                    }
+                },
+                "config": {
+                    "preferred-install": "dist",
+                    "platform": {
+                        "php": "v7.2.11"
+                    }
+                },
+                "version": "v0.0.1",
+                "source": {
+                    "reference": "987db46bdb99b6550d657cf972dab8769d4ce950",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/puggan\/cashid.git"
+                }
+            }
+        },
         "puggan\/upload_abs_path": {
             "v1.0.0": {
                 "name": "puggan\/upload_abs_path",
