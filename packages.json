@@ -1093,18 +1093,6 @@
             }
         },
         "spiro\/spiro_utils": {
-            "1.0.0": {
-                "name": "drupal\/spiro_utils",
-                "type": "drupal-module",
-                "description": "Random Drupal 8 utilities",
-                "homepage": "https:\/\/bitbucket.org\/spiro\/drupal8-plugin-spiro_utils",
-                "version": "1.0.0",
-                "source": {
-                    "reference": "80dc98717df25e90d66d0cfff88242d69a66afc1",
-                    "type": "git",
-                    "url": "git@bitbucket.org:spiro\/drupal8-module-spiro_utils.git"
-                }
-            },
             "1.0.1": {
                 "name": "spiro\/spiro_utils",
                 "type": "drupal-module",
@@ -1281,6 +1269,30 @@
                 "version": "1.1.6",
                 "source": {
                     "reference": "b1b0657075fd731b8e418c10db8d756845426070",
+                    "type": "git",
+                    "url": "git@bitbucket.org:spiro\/drupal8-module-spiro_utils.git"
+                }
+            },
+            "1.1.7": {
+                "name": "spiro\/spiro_utils",
+                "type": "drupal-module",
+                "description": "Random Drupal 8 utilities",
+                "homepage": "https:\/\/bitbucket.org\/spiro\/drupal8-module-spiro_utils",
+                "version": "1.1.7",
+                "source": {
+                    "reference": "a893154258f13e69767e24bc6f0066e810921fa9",
+                    "type": "git",
+                    "url": "git@bitbucket.org:spiro\/drupal8-module-spiro_utils.git"
+                }
+            },
+            "1.1.9": {
+                "name": "spiro\/spiro_utils",
+                "type": "drupal-module",
+                "description": "Random Drupal 8 utilities",
+                "homepage": "https:\/\/bitbucket.org\/spiro\/drupal8-module-spiro_utils",
+                "version": "1.1.9",
+                "source": {
+                    "reference": "e92522ae5844867dc13de7331ed07c38c6a98fc6",
                     "type": "git",
                     "url": "git@bitbucket.org:spiro\/drupal8-module-spiro_utils.git"
                 }
