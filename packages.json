@@ -2673,20 +2673,30 @@
             }
         },
         "wp-plugins\/wpmudev-updates": {
-            "4.3.0": {
+            "v4.3.0": {
                 "name": "wp-plugins\/wpmudev-updates",
-                "version": "4.3.0",
+                "description": "WPMU DEV Dashboard",
+                "type": "wordpress-plugin",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "version": "v4.3.0",
                 "source": {
-                    "reference": "f47b7db7fd63d4976ba9d40a1d3e3ea026e96d3c",
+                    "reference": "0a7377772e3ba0b06c9a470ce1699baa376fb993",
                     "type": "git",
                     "url": "git@bitbucket.org:spiro\/wp-plugins-wpmudev-updates.git"
                 }
             },
-            "4.5.2": {
+            "v4.5.2": {
                 "name": "wp-plugins\/wpmudev-updates",
-                "version": "4.5.2",
+                "description": "WPMU DEV Dashboard",
+                "type": "wordpress-plugin",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "version": "v4.5.2",
                 "source": {
-                    "reference": "3e11817b80bd3a5f79f616311925dc4fd285f9e3",
+                    "reference": "6db8d87995c2f69414f8eb62b0059b5edcb067d7",
                     "type": "git",
                     "url": "git@bitbucket.org:spiro\/wp-plugins-wpmudev-updates.git"
                 }
