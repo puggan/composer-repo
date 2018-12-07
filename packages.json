@@ -883,6 +883,23 @@
                     "type": "git",
                     "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
                 }
+            },
+            "5.0.0": {
+                "name": "SpiroAB\/wordpress",
+                "description": "Wordpress with a few bugfix-patches, and no wp-content",
+                "type": "wordpress-core",
+                "require": {
+                    "oomphinc\/composer-installers-extender": "^1.1"
+                },
+                "extra": {
+                    "installer-name": "wp"
+                },
+                "version": "5.0.0",
+                "source": {
+                    "reference": "6d476b91065c4e1890c5c28837544098ea93bc5c",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                }
             }
         },
         "SpiroAB\/wp_version_tracker": {
