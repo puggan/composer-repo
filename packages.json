@@ -1155,6 +1155,23 @@
                     "type": "git",
                     "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
                 }
+            },
+            "5.0.3": {
+                "name": "SpiroAB\/wordpress",
+                "description": "Wordpress with a few bugfix-patches, and no wp-content",
+                "type": "wordpress-core",
+                "require": {
+                    "oomphinc\/composer-installers-extender": "^1.1"
+                },
+                "extra": {
+                    "installer-name": "wp"
+                },
+                "version": "5.0.3",
+                "source": {
+                    "reference": "8e800e7bcd90d7945b0b582d2ba3764eab62b0a0",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                }
             }
         },
         "SpiroAB\/wp_version_tracker": {
@@ -2781,6 +2798,34 @@
                 "version": "5.7.7",
                 "source": {
                     "reference": "d69ff2b6a1c455e751837fe28e259e1948882684",
+                    "type": "git",
+                    "url": "git@bitbucket.org:spiro\/wp-plugins-advanced-custom-fields-pro"
+                }
+            },
+            "5.7.8": {
+                "name": "wp-plugins\/advanced-custom-fields-pro",
+                "description": "advancedcustomfields.com",
+                "type": "wordpress-plugin",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "version": "5.7.8",
+                "source": {
+                    "reference": "cfa1647e61a6420fcd81fe4d16912ab5ba876621",
+                    "type": "git",
+                    "url": "git@bitbucket.org:spiro\/wp-plugins-advanced-custom-fields-pro"
+                }
+            },
+            "5.7.9": {
+                "name": "wp-plugins\/advanced-custom-fields-pro",
+                "description": "advancedcustomfields.com",
+                "type": "wordpress-plugin",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "version": "5.7.9",
+                "source": {
+                    "reference": "629253d478f8c309723ad3355761a5b20d37a5a2",
                     "type": "git",
                     "url": "git@bitbucket.org:spiro\/wp-plugins-advanced-custom-fields-pro"
                 }
