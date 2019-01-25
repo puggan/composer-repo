@@ -2793,6 +2793,20 @@
                     "url": "git@bitbucket.org:spiro\/wp-plugins-advanced-custom-fields-pro"
                 }
             },
+            "5.7.10": {
+                "name": "wp-plugins\/advanced-custom-fields-pro",
+                "description": "advancedcustomfields.com",
+                "type": "wordpress-plugin",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "version": "5.7.10",
+                "source": {
+                    "reference": "a2dd12fe1ffdb2f944c764159a1886ae3e43f71d",
+                    "type": "git",
+                    "url": "git@bitbucket.org:spiro\/wp-plugins-advanced-custom-fields-pro"
+                }
+            },
             "5.7.2": {
                 "name": "wp-plugins\/advanced-custom-fields-pro",
                 "description": "advancedcustomfields.com",
@@ -2901,20 +2915,6 @@
                 "version": "5.7.9",
                 "source": {
                     "reference": "629253d478f8c309723ad3355761a5b20d37a5a2",
-                    "type": "git",
-                    "url": "git@bitbucket.org:spiro\/wp-plugins-advanced-custom-fields-pro"
-                }
-            },
-            "v5.7.10": {
-                "name": "wp-plugins\/advanced-custom-fields-pro",
-                "description": "advancedcustomfields.com",
-                "type": "wordpress-plugin",
-                "require": {
-                    "composer\/installers": "~1.0"
-                },
-                "version": "v5.7.10",
-                "source": {
-                    "reference": "a2dd12fe1ffdb2f944c764159a1886ae3e43f71d",
                     "type": "git",
                     "url": "git@bitbucket.org:spiro\/wp-plugins-advanced-custom-fields-pro"
                 }
