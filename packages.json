@@ -410,14 +410,6 @@
         "SpiroAB\/wordpress": {
             "3.7.26": {
                 "name": "SpiroAB\/wordpress",
-                "description": "Wordpress with a few bugfix-patches, and no wp-content",
-                "type": "wordpress-core",
-                "require": {
-                    "oomphinc\/composer-installers-extender": "^1.1"
-                },
-                "extra": {
-                    "installer-name": "wp"
-                },
                 "version": "3.7.26",
                 "source": {
                     "reference": "3e264fc033815313cc8856ce4f08769ba7724fb9",
