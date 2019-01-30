@@ -410,6 +410,14 @@
         "SpiroAB\/wordpress": {
             "3.7.26": {
                 "name": "SpiroAB\/wordpress",
+                "description": "Wordpress with a few bugfix-patches, and no wp-content",
+                "type": "wordpress-core",
+                "require": {
+                    "oomphinc\/composer-installers-extender": "^1.1"
+                },
+                "extra": {
+                    "installer-name": "wp"
+                },
                 "version": "3.7.26",
                 "source": {
                     "reference": "3e264fc033815313cc8856ce4f08769ba7724fb9",
@@ -1526,6 +1534,18 @@
                 "version": "1.1.12",
                 "source": {
                     "reference": "6dcbbc3d6eed0fb77ffe4a4785e6fb42c2512bfc",
+                    "type": "git",
+                    "url": "git@bitbucket.org:spiro\/drupal8-module-spiro_utils.git"
+                }
+            },
+            "1.1.13": {
+                "name": "spiro\/spiro_utils",
+                "type": "drupal-module",
+                "description": "Random Drupal 8 utilities",
+                "homepage": "https:\/\/bitbucket.org\/spiro\/drupal8-module-spiro_utils",
+                "version": "1.1.13",
+                "source": {
+                    "reference": "92e1a980ac729d11583e869b00e7a6ad653a61b4",
                     "type": "git",
                     "url": "git@bitbucket.org:spiro\/drupal8-module-spiro_utils.git"
                 }
