@@ -1684,6 +1684,31 @@
                     "type": "git",
                     "url": "git@bitbucket.org:spiro\/magento2-plugin-isimo.git"
                 }
+            },
+            "1.0.1": {
+                "name": "spiro\/magento2-plugin-isimo",
+                "description": "Magento 2 Isimo client",
+                "require": {
+                    "php": "~7.1",
+                    "magento\/framework": "^101",
+                    "magento\/module-ui": "^101"
+                },
+                "type": "magento2-module",
+                "version": "1.0.1",
+                "license": "proprietary",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Spiro\\Isimo\\": ""
+                    }
+                },
+                "source": {
+                    "reference": "44c7fdcdc5cebe975c990e7a54f4ffbf41628325",
+                    "type": "git",
+                    "url": "git@bitbucket.org:spiro\/magento2-plugin-isimo.git"
+                }
             }
         },
         "wp-plugins\/acfml": {
