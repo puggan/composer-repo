@@ -1964,6 +1964,11 @@
             },
             "5.1.2": {
                 "name": "wp-plugins\/advanced-custom-fields-pro",
+                "description": "advancedcustomfields.com",
+                "type": "wordpress-plugin",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
                 "version": "5.1.2",
                 "source": {
                     "reference": "bef681e1fb3dcb0fc0dae733ff3b65df17cc975e",
@@ -2211,6 +2216,11 @@
             },
             "5.3.0": {
                 "name": "wp-plugins\/advanced-custom-fields-pro",
+                "description": "advancedcustomfields.com",
+                "type": "wordpress-plugin",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
                 "version": "5.3.0",
                 "source": {
                     "reference": "55061767d0d29a8b138fcff982ce7c09c49d2f37",
@@ -2220,6 +2230,11 @@
             },
             "5.3.1": {
                 "name": "wp-plugins\/advanced-custom-fields-pro",
+                "description": "advancedcustomfields.com",
+                "type": "wordpress-plugin",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
                 "version": "5.3.1",
                 "source": {
                     "reference": "7dfac57b2ec62b46d36cffa8fbd24082dfe40a66",
@@ -2313,6 +2328,11 @@
             },
             "5.3.7": {
                 "name": "wp-plugins\/advanced-custom-fields-pro",
+                "description": "advancedcustomfields.com",
+                "type": "wordpress-plugin",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
                 "version": "5.3.7",
                 "source": {
                     "reference": "b6ec9370e57af3f55f60b611edc72cfb3ac9c06b",
@@ -2322,6 +2342,11 @@
             },
             "5.3.8": {
                 "name": "wp-plugins\/advanced-custom-fields-pro",
+                "description": "advancedcustomfields.com",
+                "type": "wordpress-plugin",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
                 "version": "5.3.8",
                 "source": {
                     "reference": "3a8c4dbd1942a943e12e75b8f1d17c397c277f33",
@@ -2331,6 +2356,11 @@
             },
             "5.3.9": {
                 "name": "wp-plugins\/advanced-custom-fields-pro",
+                "description": "advancedcustomfields.com",
+                "type": "wordpress-plugin",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
                 "version": "5.3.9",
                 "source": {
                     "reference": "ac48197f7ad9e279455e643d843aae5dbdb858a0",
@@ -2354,6 +2384,11 @@
             },
             "5.4.1": {
                 "name": "wp-plugins\/advanced-custom-fields-pro",
+                "description": "advancedcustomfields.com",
+                "type": "wordpress-plugin",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
                 "version": "5.4.1",
                 "source": {
                     "reference": "302b594abd48600fe1c6e98a37855b52fd48127b",
@@ -2391,6 +2426,11 @@
             },
             "5.4.4": {
                 "name": "wp-plugins\/advanced-custom-fields-pro",
+                "description": "advancedcustomfields.com",
+                "type": "wordpress-plugin",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
                 "version": "5.4.4",
                 "source": {
                     "reference": "e10f544504078b39be28cb0b51e0775cd23a5d7a",
