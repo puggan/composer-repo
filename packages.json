@@ -3160,6 +3160,21 @@
                     "type": "git",
                     "url": "git@bitbucket.org:spiro\/wp-plugins-sitepress-multilingual-cms.git"
                 }
+            },
+            "v4.2.2": {
+                "name": "wp-plugins\/sitepress-multilingual-cms",
+                "description": "WPML Multilingual CMS",
+                "type": "wordpress-plugin",
+                "require": {
+                    "composer\/installers": "~1.0",
+                    "SpiroAB\/wp_version_tracker": "~1.0"
+                },
+                "version": "v4.2.2",
+                "source": {
+                    "reference": "a3d191e66ac778cab11e5356264eeafbd0d02b1c",
+                    "type": "git",
+                    "url": "git@bitbucket.org:spiro\/wp-plugins-sitepress-multilingual-cms.git"
+                }
             }
         },
         "wp-plugins\/wpml-media-translation": {
@@ -3252,6 +3267,21 @@
                     "type": "git",
                     "url": "git@bitbucket.org:spiro\/wp-plugins-wpml-media-translation.git"
                 }
+            },
+            "v2.5.1": {
+                "name": "wp-plugins\/wpml-media-translation",
+                "description": "WPML Media",
+                "type": "wordpress-plugin",
+                "require": {
+                    "composer\/installers": "~1.0",
+                    "SpiroAB\/wp_version_tracker": "~1.0"
+                },
+                "version": "v2.5.1",
+                "source": {
+                    "reference": "4f90b0bd15789ab2306cf5a77cc818a0067b94d0",
+                    "type": "git",
+                    "url": "git@bitbucket.org:spiro\/wp-plugins-wpml-media-translation.git"
+                }
             }
         },
         "wp-plugins\/wpml-string-translation": {
@@ -3281,6 +3311,21 @@
                 "version": "v2.10.1",
                 "source": {
                     "reference": "eac7f1b97139b9de0894308c80d194a069fadd58",
+                    "type": "git",
+                    "url": "git@bitbucket.org:spiro\/wp-plugins-wpml-string-translation.git"
+                }
+            },
+            "v2.10.2": {
+                "name": "wp-plugins\/wpml-string-translation",
+                "description": "WPML String Translation",
+                "type": "wordpress-plugin",
+                "require": {
+                    "composer\/installers": "~1.0",
+                    "SpiroAB\/wp_version_tracker": "~1.0"
+                },
+                "version": "v2.10.2",
+                "source": {
+                    "reference": "e5247913581a197251143cf5405513e5ae7ce3d1",
                     "type": "git",
                     "url": "git@bitbucket.org:spiro\/wp-plugins-wpml-string-translation.git"
                 }
@@ -3433,6 +3478,21 @@
                 "version": "v2.8.1",
                 "source": {
                     "reference": "bb4a770c114f9d48393068f77bf7c3395fedafef",
+                    "type": "git",
+                    "url": "git@bitbucket.org:spiro\/wp-plugins-wpml-translation-management.git"
+                }
+            },
+            "v2.8.2": {
+                "name": "wp-plugins\/wpml-translation-management",
+                "description": "WPML Translation Management",
+                "type": "wordpress-plugin",
+                "require": {
+                    "composer\/installers": "~1.0",
+                    "SpiroAB\/wp_version_tracker": "~1.0"
+                },
+                "version": "v2.8.2",
+                "source": {
+                    "reference": "29fe393089ae61aae277b528bfb1b5faf43228f4",
                     "type": "git",
                     "url": "git@bitbucket.org:spiro\/wp-plugins-wpml-translation-management.git"
                 }
