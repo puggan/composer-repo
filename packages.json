@@ -136,6 +136,16 @@
                     "type": "git",
                     "url": "https:\/\/github.com\/SpiroAB\/isimo_grav.git"
                 }
+            },
+            "v1.0.2": {
+                "name": "SpiroAB\/isimo_grav",
+                "version": "v1.0.2",
+                "type": "grav-plugin",
+                "source": {
+                    "reference": "dba2d0299b58932be6f01a178b8c007a837d718b",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/isimo_grav.git"
+                }
             }
         },
         "SpiroAB\/isimo_wp": {
@@ -303,6 +313,15 @@
                 "version": "v1.1.4",
                 "source": {
                     "reference": "c0350f16b32affd512fd7a28ad70f2900e19721b",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/isimo_wp.git"
+                }
+            },
+            "v1.1.5": {
+                "name": "SpiroAB\/isimo_wp",
+                "version": "v1.1.5",
+                "source": {
+                    "reference": "eff24fb38beaa0be97361643037ebe8d012dbcfb",
                     "type": "git",
                     "url": "https:\/\/github.com\/SpiroAB\/isimo_wp.git"
                 }
