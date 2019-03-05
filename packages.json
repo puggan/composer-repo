@@ -3194,6 +3194,21 @@
                     "type": "git",
                     "url": "git@bitbucket.org:spiro\/wp-plugins-sitepress-multilingual-cms.git"
                 }
+            },
+            "v4.2.4.1": {
+                "name": "wp-plugins\/sitepress-multilingual-cms",
+                "description": "WPML Multilingual CMS",
+                "type": "wordpress-plugin",
+                "require": {
+                    "composer\/installers": "~1.0",
+                    "SpiroAB\/wp_version_tracker": "~1.0"
+                },
+                "version": "v4.2.4.1",
+                "source": {
+                    "reference": "2576afce5dbff8df7e90386d7451eecdb0c3f8a9",
+                    "type": "git",
+                    "url": "git@bitbucket.org:spiro\/wp-plugins-sitepress-multilingual-cms.git"
+                }
             }
         },
         "wp-plugins\/wpml-media-translation": {
@@ -3515,6 +3530,21 @@
                     "type": "git",
                     "url": "git@bitbucket.org:spiro\/wp-plugins-wpml-translation-management.git"
                 }
+            },
+            "v2.8.3": {
+                "name": "wp-plugins\/wpml-translation-management",
+                "description": "WPML Translation Management",
+                "type": "wordpress-plugin",
+                "require": {
+                    "composer\/installers": "~1.0",
+                    "SpiroAB\/wp_version_tracker": "~1.0"
+                },
+                "version": "v2.8.3",
+                "source": {
+                    "reference": "0822aafb4189276fbd500354ce0b40ceb71b262d",
+                    "type": "git",
+                    "url": "git@bitbucket.org:spiro\/wp-plugins-wpml-translation-management.git"
+                }
             }
         },
         "wp-plugins\/wpmudev-updates": {
@@ -3542,6 +3572,20 @@
                 "version": "v4.5.2",
                 "source": {
                     "reference": "6db8d87995c2f69414f8eb62b0059b5edcb067d7",
+                    "type": "git",
+                    "url": "git@bitbucket.org:spiro\/wp-plugins-wpmudev-updates.git"
+                }
+            },
+            "v4.6.1": {
+                "name": "wp-plugins\/wpmudev-updates",
+                "description": "WPMU DEV Dashboard",
+                "type": "wordpress-plugin",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "version": "v4.6.1",
+                "source": {
+                    "reference": "001052c31ca439a51e2c8266b164d77414247cf4",
                     "type": "git",
                     "url": "git@bitbucket.org:spiro\/wp-plugins-wpmudev-updates.git"
                 }
