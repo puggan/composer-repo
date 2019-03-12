@@ -319,6 +319,12 @@
             },
             "v1.1.5": {
                 "name": "SpiroAB\/isimo_wp",
+                "description": "Isimo Client, wordpress plugin",
+                "type": "wordpress-plugin",
+                "require": {
+                    "composer\/installers": "~1.0",
+                    "SpiroAB\/wp_version_tracker": "~1.0"
+                },
                 "version": "v1.1.5",
                 "source": {
                     "reference": "eff24fb38beaa0be97361643037ebe8d012dbcfb",
