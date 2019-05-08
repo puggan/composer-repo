@@ -1495,6 +1495,23 @@
                     "type": "git",
                     "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
                 }
+            },
+            "5.2.0": {
+                "name": "spiroab\/wordpress",
+                "description": "Wordpress with a few bugfix-patches, and no wp-content",
+                "type": "wordpress-core",
+                "require": {
+                    "oomphinc\/composer-installers-extender": "^1.1"
+                },
+                "extra": {
+                    "installer-name": "wp"
+                },
+                "version": "5.2.0",
+                "source": {
+                    "reference": "14b78bad0aa077b498e0672a53f5204fa6d1af16",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                }
             }
         },
         "SpiroAB\/wp_version_tracker": {
@@ -3486,6 +3503,20 @@
                 "version": "v5.7.13",
                 "source": {
                     "reference": "be1bea4a90f0abad5d7986667303421e211bd20e",
+                    "type": "git",
+                    "url": "git@bitbucket.org:spiro\/wp-plugins-advanced-custom-fields-pro"
+                }
+            },
+            "v5.8.0": {
+                "name": "wp-plugins\/advanced-custom-fields-pro",
+                "description": "advancedcustomfields.com",
+                "type": "wordpress-plugin",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "version": "v5.8.0",
+                "source": {
+                    "reference": "8b7e473b89e1c88baf3c0e99c7ac772520e832d8",
                     "type": "git",
                     "url": "git@bitbucket.org:spiro\/wp-plugins-advanced-custom-fields-pro"
                 }
