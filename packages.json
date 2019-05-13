@@ -1681,6 +1681,21 @@
                     "type": "git",
                     "url": "git@bitbucket.org:spiro\/drupal8-module-isimo.git"
                 }
+            },
+            "1.1.5": {
+                "name": "spiro\/isimo",
+                "type": "drupal-module",
+                "description": "Isimo Client for Drupal 8",
+                "homepage": "https:\/\/bitbucket.org\/spiro\/drupal8-module-isimo",
+                "require": {
+                    "ext-json": "*"
+                },
+                "version": "1.1.5",
+                "source": {
+                    "reference": "95c1af124dddeb20ff8c18609f54ea0c828bf262",
+                    "type": "git",
+                    "url": "git@bitbucket.org:spiro\/drupal8-module-isimo.git"
+                }
             }
         },
         "spiro\/magento2-plugin-urlkeymask": {
