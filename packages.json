@@ -116,6 +116,38 @@
                 }
             }
         },
+        "SpiroAB\/isimo_grav": {
+            "v1.0.0": {
+                "name": "SpiroAB\/isimo_grav",
+                "version": "v1.0.0",
+                "type": "grav-plugin",
+                "source": {
+                    "reference": "9dd7be98fafc02d23e1e602625bdf5e9606eb279",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/isimo_grav.git"
+                }
+            },
+            "v1.0.1": {
+                "name": "SpiroAB\/isimo_grav",
+                "version": "v1.0.1",
+                "type": "grav-plugin",
+                "source": {
+                    "reference": "5622e1f4c0b1dbe6b9f6f07518af32f9d3ba2af8",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/isimo_grav.git"
+                }
+            },
+            "v1.0.2": {
+                "name": "SpiroAB\/isimo_grav",
+                "version": "v1.0.2",
+                "type": "grav-plugin",
+                "source": {
+                    "reference": "dba2d0299b58932be6f01a178b8c007a837d718b",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/isimo_grav.git"
+                }
+            }
+        },
         "SpiroAB\/isimo_wp": {
             "v0.0.2": {
                 "name": "SpiroAB\/isimo_wp",
@@ -1477,6 +1509,23 @@
                 "version": "5.2.0",
                 "source": {
                     "reference": "14b78bad0aa077b498e0672a53f5204fa6d1af16",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                }
+            },
+            "5.2.1": {
+                "name": "spiroab\/wordpress",
+                "description": "Wordpress with a few bugfix-patches, and no wp-content",
+                "type": "wordpress-core",
+                "require": {
+                    "oomphinc\/composer-installers-extender": "^1.1"
+                },
+                "extra": {
+                    "installer-name": "wp"
+                },
+                "version": "5.2.1",
+                "source": {
+                    "reference": "5a8e13c2183295d99a1607d75cc81a2235f46cf1",
                     "type": "git",
                     "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
                 }
