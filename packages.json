@@ -4289,6 +4289,20 @@
                     "type": "git",
                     "url": "git@bitbucket.org:spiro\/wp-plugins-wpmudev-updates.git"
                 }
+            },
+            "v4.7.1.3": {
+                "name": "wp-plugins\/wpmudev-updates",
+                "description": "WPMU DEV Dashboard",
+                "type": "wordpress-plugin",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "version": "v4.7.1.3",
+                "source": {
+                    "reference": "270d060dc504d7b887a25e15cd3ed2796b788ac1",
+                    "type": "git",
+                    "url": "git@bitbucket.org:spiro\/wp-plugins-wpmudev-updates.git"
+                }
             }
         }
     }
