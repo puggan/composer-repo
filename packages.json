@@ -1529,6 +1529,23 @@
                     "type": "git",
                     "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
                 }
+            },
+            "5.2.2": {
+                "name": "spiroab\/wordpress",
+                "description": "Wordpress with a few bugfix-patches, and no wp-content",
+                "type": "wordpress-core",
+                "require": {
+                    "oomphinc\/composer-installers-extender": "^1.1"
+                },
+                "extra": {
+                    "installer-name": "wp"
+                },
+                "version": "5.2.2",
+                "source": {
+                    "reference": "7b7263562458b0889299cef1a7b13a796d34940d",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/wordpress.git"
+                }
             }
         },
         "SpiroAB\/wp_version_tracker": {
@@ -2344,6 +2361,21 @@
                 "version": "v1.3.0",
                 "source": {
                     "reference": "59b0256660a7c5d205932e28cbfec8d43c4d86d7",
+                    "type": "git",
+                    "url": "git@bitbucket.org:spiro\/wp-plugins-acfml.git"
+                }
+            },
+            "v1.4.0": {
+                "name": "wp-plugins\/acfml",
+                "description": "Advanced Custom Fields Multilingual",
+                "type": "wordpress-plugin",
+                "require": {
+                    "composer\/installers": "~1.0",
+                    "SpiroAB\/wp_version_tracker": "~1.0"
+                },
+                "version": "v1.4.0",
+                "source": {
+                    "reference": "50bd5c91b2f57543a06ec70a523c8b7d979a2e13",
                     "type": "git",
                     "url": "git@bitbucket.org:spiro\/wp-plugins-acfml.git"
                 }
