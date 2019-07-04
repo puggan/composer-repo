@@ -1670,6 +1670,9 @@
             },
             "1.1.1": {
                 "name": "spiro\/isimo",
+                "type": "drupal-module",
+                "description": "Isimo Client for Drupal 8",
+                "homepage": "https:\/\/bitbucket.org\/spiro\/drupal8-module-isimo",
                 "version": "1.1.1",
                 "source": {
                     "reference": "0829c332dd2df1a56cbaca4832558b8fc82a0fea",
