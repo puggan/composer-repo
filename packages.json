@@ -340,6 +340,21 @@
                     "type": "git",
                     "url": "https:\/\/github.com\/SpiroAB\/isimo_wp.git"
                 }
+            },
+            "v1.1.7": {
+                "name": "spiroab\/isimo_wp",
+                "description": "Isimo Client, wordpress plugin",
+                "type": "wordpress-plugin",
+                "require": {
+                    "composer\/installers": "~1.0",
+                    "SpiroAB\/wp_version_tracker": "~1.0"
+                },
+                "version": "v1.1.7",
+                "source": {
+                    "reference": "ba7784c00b6d3e14d23f56024a91b5aec25b774f",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/SpiroAB\/isimo_wp.git"
+                }
             }
         },
         "SpiroAB\/page-blocks": {
