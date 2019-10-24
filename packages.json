@@ -3956,6 +3956,20 @@
                     "type": "git",
                     "url": "git@bitbucket.org:spiro\/wp-plugins-advanced-custom-fields-pro"
                 }
+            },
+            "v5.8.6": {
+                "name": "wp-plugins\/advanced-custom-fields-pro",
+                "description": "advancedcustomfields.com",
+                "type": "wordpress-plugin",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "version": "v5.8.6",
+                "source": {
+                    "reference": "6c36f18a90d62f66f70bbd7b0d47cc27f0d02fee",
+                    "type": "git",
+                    "url": "git@bitbucket.org:spiro\/wp-plugins-advanced-custom-fields-pro"
+                }
             }
         },
         "wp-plugins\/sitepress-multilingual-cms": {
@@ -4210,6 +4224,21 @@
                 "version": "v4.3.0",
                 "source": {
                     "reference": "136a0fb29920b70985b23429591cf08e02e9a6b8",
+                    "type": "git",
+                    "url": "git@bitbucket.org:spiro\/wp-plugins-sitepress-multilingual-cms.git"
+                }
+            },
+            "v4.3.1": {
+                "name": "wp-plugins\/sitepress-multilingual-cms",
+                "description": "WPML Multilingual CMS",
+                "type": "wordpress-plugin",
+                "require": {
+                    "composer\/installers": "~1.0",
+                    "SpiroAB\/wp_version_tracker": "~1.0"
+                },
+                "version": "v4.3.1",
+                "source": {
+                    "reference": "b0b21a3927b80a97cb3cbb506f51359b9a3e9324",
                     "type": "git",
                     "url": "git@bitbucket.org:spiro\/wp-plugins-sitepress-multilingual-cms.git"
                 }
@@ -4559,6 +4588,21 @@
                 "version": "v3.0.0",
                 "source": {
                     "reference": "82d47036956461bd257d75950c91c357a643606f",
+                    "type": "git",
+                    "url": "git@bitbucket.org:spiro\/wp-plugins-wpml-string-translation.git"
+                }
+            },
+            "v3.0.1": {
+                "name": "wp-plugins\/wpml-string-translation",
+                "description": "WPML String Translation",
+                "type": "wordpress-plugin",
+                "require": {
+                    "composer\/installers": "~1.0",
+                    "SpiroAB\/wp_version_tracker": "~1.0"
+                },
+                "version": "v3.0.1",
+                "source": {
+                    "reference": "c165c114de6172b49bb04be95162ef2434cbb9b4",
                     "type": "git",
                     "url": "git@bitbucket.org:spiro\/wp-plugins-wpml-string-translation.git"
                 }
