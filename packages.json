@@ -1054,14 +1054,6 @@
             },
             "4.2.25": {
                 "name": "SpiroAB\/wordpress",
-                "description": "Wordpress with a few bugfix-patches, and no wp-content",
-                "type": "wordpress-core",
-                "require": {
-                    "oomphinc\/composer-installers-extender": "^1.1"
-                },
-                "extra": {
-                    "installer-name": "wp"
-                },
                 "version": "4.2.25",
                 "source": {
                     "reference": "e493eb93348021ec1771256e3824dc8619a5ab9f",
@@ -4544,6 +4536,21 @@
                     "type": "git",
                     "url": "git@bitbucket.org:spiro\/wp-plugins-sitepress-multilingual-cms.git"
                 }
+            },
+            "v4.3.3": {
+                "name": "wp-plugins\/sitepress-multilingual-cms",
+                "description": "WPML Multilingual CMS",
+                "type": "wordpress-plugin",
+                "require": {
+                    "composer\/installers": "~1.0",
+                    "SpiroAB\/wp_version_tracker": "~1.0"
+                },
+                "version": "v4.3.3",
+                "source": {
+                    "reference": "6b4b7068065420d1c9467094175fc74aa3662b65",
+                    "type": "git",
+                    "url": "git@bitbucket.org:spiro\/wp-plugins-sitepress-multilingual-cms.git"
+                }
             }
         },
         "wp-plugins\/wpml-media-translation": {
@@ -4693,6 +4700,21 @@
                 "version": "v2.5.4",
                 "source": {
                     "reference": "fceb0d7c85f6428d25f629d6e6ecfb61a38f1368",
+                    "type": "git",
+                    "url": "git@bitbucket.org:spiro\/wp-plugins-wpml-media-translation.git"
+                }
+            },
+            "v2.5.5": {
+                "name": "wp-plugins\/wpml-media-translation",
+                "description": "WPML Media",
+                "type": "wordpress-plugin",
+                "require": {
+                    "composer\/installers": "~1.0",
+                    "SpiroAB\/wp_version_tracker": "~1.0"
+                },
+                "version": "v2.5.5",
+                "source": {
+                    "reference": "00383b57cdef79b72d82bbbfb50de4012ceb75e4",
                     "type": "git",
                     "url": "git@bitbucket.org:spiro\/wp-plugins-wpml-media-translation.git"
                 }
@@ -4920,6 +4942,21 @@
                 "version": "v3.0.2",
                 "source": {
                     "reference": "9e79ae733a485c9f14e9b641401a63be772be545",
+                    "type": "git",
+                    "url": "git@bitbucket.org:spiro\/wp-plugins-wpml-string-translation.git"
+                }
+            },
+            "v3.0.3": {
+                "name": "wp-plugins\/wpml-string-translation",
+                "description": "WPML String Translation",
+                "type": "wordpress-plugin",
+                "require": {
+                    "composer\/installers": "~1.0",
+                    "SpiroAB\/wp_version_tracker": "~1.0"
+                },
+                "version": "v3.0.3",
+                "source": {
+                    "reference": "68c2f6f0535298014c5f5a4291642b6817055437",
                     "type": "git",
                     "url": "git@bitbucket.org:spiro\/wp-plugins-wpml-string-translation.git"
                 }
@@ -5162,6 +5199,21 @@
                 "version": "v2.9.1",
                 "source": {
                     "reference": "880d6ff0f2fd9a726110603627f1d57eb82e8dc4",
+                    "type": "git",
+                    "url": "git@bitbucket.org:spiro\/wp-plugins-wpml-translation-management.git"
+                }
+            },
+            "v2.9.2": {
+                "name": "wp-plugins\/wpml-translation-management",
+                "description": "WPML Translation Management",
+                "type": "wordpress-plugin",
+                "require": {
+                    "composer\/installers": "~1.0",
+                    "SpiroAB\/wp_version_tracker": "~1.0"
+                },
+                "version": "v2.9.2",
+                "source": {
+                    "reference": "504d029e89bab3705241c4111f62802cd8e83279",
                     "type": "git",
                     "url": "git@bitbucket.org:spiro\/wp-plugins-wpml-translation-management.git"
                 }
