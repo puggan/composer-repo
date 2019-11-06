@@ -1054,6 +1054,14 @@
             },
             "4.2.25": {
                 "name": "SpiroAB\/wordpress",
+                "description": "Wordpress with a few bugfix-patches, and no wp-content",
+                "type": "wordpress-core",
+                "require": {
+                    "oomphinc\/composer-installers-extender": "^1.1"
+                },
+                "extra": {
+                    "installer-name": "wp"
+                },
                 "version": "4.2.25",
                 "source": {
                     "reference": "e493eb93348021ec1771256e3824dc8619a5ab9f",
