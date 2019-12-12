@@ -3743,6 +3743,11 @@
             },
             "5.5.13": {
                 "name": "wp-plugins\/advanced-custom-fields-pro",
+                "description": "advancedcustomfields.com",
+                "type": "wordpress-plugin",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
                 "version": "5.5.13",
                 "source": {
                     "reference": "62151e9c5ed3696bdbe72a910b62471e259e41db",
