@@ -3274,6 +3274,21 @@
                     "type": "git",
                     "url": "git@bitbucket.org:spiro\/wp-plugins-acfml.git"
                 }
+            },
+            "v1.6.0": {
+                "name": "wp-plugins\/acfml",
+                "description": "Advanced Custom Fields Multilingual",
+                "type": "wordpress-plugin",
+                "require": {
+                    "composer\/installers": "~1.0",
+                    "SpiroAB\/wp_version_tracker": "~1.0"
+                },
+                "version": "v1.6.0",
+                "source": {
+                    "reference": "51bc00df7c0421775cd0799cbf454a7d4d0a72bc",
+                    "type": "git",
+                    "url": "git@bitbucket.org:spiro\/wp-plugins-acfml.git"
+                }
             }
         },
         "wp-plugins\/advanced-custom-fields-pro": {
