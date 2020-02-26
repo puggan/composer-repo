@@ -4984,6 +4984,21 @@
                     "type": "git",
                     "url": "git@bitbucket.org:spiro\/wp-plugins-sitepress-multilingual-cms.git"
                 }
+            },
+            "v4.3.8": {
+                "name": "wp-plugins\/sitepress-multilingual-cms",
+                "description": "WPML Multilingual CMS",
+                "type": "wordpress-plugin",
+                "require": {
+                    "composer\/installers": "~1.0",
+                    "SpiroAB\/wp_version_tracker": "~1.0"
+                },
+                "version": "v4.3.8",
+                "source": {
+                    "reference": "b5b297952f735d0e50f849b3ce8adf9e45bf5173",
+                    "type": "git",
+                    "url": "git@bitbucket.org:spiro\/wp-plugins-sitepress-multilingual-cms.git"
+                }
             }
         },
         "wp-plugins\/wpml-media-translation": {
