@@ -116,6 +116,42 @@
                 }
             }
         },
+        "puggan\/wp-scout-tournaments": {
+            "v2020.0.0": {
+                "name": "puggan\/wp-scout-tournaments",
+                "description": "Tool for hosting tornament games",
+                "type": "wordpress-theme",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "extra": {
+                    "installer-name": "scout-tournaments"
+                },
+                "version": "v2020.0.0",
+                "source": {
+                    "reference": "a0638fd857bfeca4a01c4ed14ba1b59b8f37b76f",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/puggan\/wp-scout-tournaments.git"
+                }
+            },
+            "v2022.0.0": {
+                "name": "puggan\/wp-scout-tournaments",
+                "description": "Tool for hosting tornament games",
+                "type": "wordpress-theme",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "extra": {
+                    "installer-name": "scout-tournaments"
+                },
+                "version": "v2022.0.0",
+                "source": {
+                    "reference": "0d15a8c06089313f7d2e7a67b3802c6496a47d9f",
+                    "type": "git",
+                    "url": "https:\/\/github.com\/puggan\/wp-scout-tournaments.git"
+                }
+            }
+        },
         "SpiroAB\/isimo_grav": {
             "v1.0.0": {
                 "name": "SpiroAB\/isimo_grav",
